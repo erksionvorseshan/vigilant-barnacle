@@ -5,7 +5,7 @@ Zwift's training plans are great, but they are very inflexible in what order you
  - you felt so strong, that you wanted to do two sessions on the same day
  - you wanted to skip a few steps back or ahead
 
-Zwift doesn't give you the option to redo a missed workout, or skip the mandatory rest period. This repository contains all the workouts from the training plans to help you choose.
+Zwift doesn't give you the option to redo a missed workout, or skip the mandatory rest period. This repository contains all the workouts from every training plan to help you choose which one you want to ride.
 
 ## About the repo
 
@@ -13,8 +13,8 @@ The workouts are sorted into their training plans' folders. They've been recreat
 
 ## How to use
 
-Just download any number of .zwo files and place them in your Zwift custom workouts folder which can be found at: 
-`Documents/Zwift/Workouts/{Your Zwift ID}`
+Just download any number of .zwo files and place them in your Zwift custom workouts folder which can be found at:  
+`Documents/Zwift/Workouts/{Your Zwift ID}`  
 Afterwards they'll appear in your workouts menu under "Custom Workouts".
 
 ## Table of contents
