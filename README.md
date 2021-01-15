@@ -21,7 +21,7 @@ Afterwards they'll appear in your workouts menu under "Custom Workouts".
 
  - Active Offseason
  - Back To Fitness
- - BMU (Build Me Up)
+ - Build Me Up
  - Crit Crusher
  - Dirt Destroyer
  - Fondo
