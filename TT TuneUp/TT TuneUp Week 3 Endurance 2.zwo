@@ -2,12 +2,13 @@
     <name>TT TuneUp Week 3 Endurance #2</name>
     <author>Zwift</author>
     <description>Long, low intensity efforts aren't the only way to build endurance. By incorporating short surges into a steady effort you will increase your oxygen uptake and training stimulus. Completing a low intensity effort with a surge every 4 minutes should feel comfortable, but the constant change in power and surging, will provide you with big gains in endurance.</description>
+    <category>TT TuneUp</category>
+    <subcategory>Week 3</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="TT TuneUp" />
         <tag name="Week 3" />
-        <tag name="TT TuneUp Week 3 Endurance #2" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="360" PowerLow="0.45" PowerHigh="0.75" />
         <SteadyState Duration="60" Power="0.5" />

@@ -2,12 +2,13 @@
     <name>Dirt Destroyer Week 1 1. Back to Basics</name>
     <author>Zwift</author>
     <description>This is the very first session of the Dirt Destroyer, which takes us back to basics and focuses on developing your endurance and aerobic conditioning which are fundamental attributes for anyone looking to train hard, hold their form and perform in a mountain bike event.We are going to push ourselves right up to our threshold, by completing 6 efforts, split in to two blocks of 3 efforts (85%, 95% and 100% of our FTP). The first effort within each block alternates between your chosen cadence and a low cadence of 65rpm. As the intensity of each effort goes up, the volume goes down!You're going to need to use a Cadence Sensor to make the most of these workouts</description>
+    <category>Dirt Destroyer</category>
+    <subcategory>Week 1</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Dirt Destroyer" />
         <tag name="Week 1" />
-        <tag name="Dirt Destroyer Week 1 1. Back to Basics" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="420" PowerLow="0.43" PowerHigh="0.74" />
         <SteadyState Duration="30" Power="1.09" />

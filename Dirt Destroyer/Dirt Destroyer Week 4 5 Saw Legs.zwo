@@ -2,12 +2,13 @@
     <name>Dirt Destroyer Week 4 5. Saw Legs</name>
     <author>Zwift</author>
     <description>This session aims to develop your endurance by completing 3 blocks of 15 minutes around Zone 3, made up of short ramps to add in the constant variation in effort involved in mountain biking! There are also a few sprints thrown in there too, to simulate navigating across a technical uphill section. Additionally, the middle ramp within each block is to be completed at a low cadence, of 65rpm.</description>
+    <category>Dirt Destroyer</category>
+    <subcategory>Week 4</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Dirt Destroyer" />
         <tag name="Week 4" />
-        <tag name="Dirt Destroyer Week 4 5. Saw Legs" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="420" PowerLow="0.43" PowerHigh="0.74" />
         <SteadyState Duration="30" Power="1.09" />

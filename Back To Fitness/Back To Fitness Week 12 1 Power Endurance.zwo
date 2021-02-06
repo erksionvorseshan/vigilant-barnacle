@@ -2,12 +2,13 @@
     <name>Back To Fitness Week 12 1. Power + Endurance</name>
     <author>Zwift</author>
     <description>This ride consists of an integration of POWER + Endurance. The power efforts will be shorter efforts 30 seconds or less in duration followed by a ramp-down style of climbing and endurance decreasing in intensity throughout 5 minutes. We will tap in to all of our energy systems today which keep sessions fun while at the same time challenging for all!</description>
+    <category>Back To Fitness</category>
+    <subcategory>Week 12</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Back To Fitness" />
         <tag name="Week 12" />
-        <tag name="Back To Fitness Week 12 1. Power + Endurance" />
-    </tags>
+        </tags>
     <workout>
         <SteadyState Duration="60" Power="0.6" />
         <SteadyState Duration="60" Power="0.68" />

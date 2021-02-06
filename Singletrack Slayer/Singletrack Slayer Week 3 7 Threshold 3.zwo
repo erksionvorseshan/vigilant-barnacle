@@ -2,12 +2,13 @@
     <name>Singletrack Slayer Week 3 7. Threshold #3</name>
     <author>Zwift</author>
     <description>One aspect of performance that can be improved the most through correct application of interval training is the lactate threshold. Training to improve threshold power is typically performed either just below or ideally, just above threshold for extended periods. On the table today is one 30min threshold effort. But we move the intensity around from lower zone 4 to upper zone 4.</description>
+    <category>Singletrack Slayer</category>
+    <subcategory>Week 3</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Singletrack Slayer" />
         <tag name="Week 3" />
-        <tag name="Singletrack Slayer Week 3 7. Threshold #3" />
-    </tags>
+        </tags>
     <workout>
         <SteadyState Duration="180" Power="0.5" />
         <IntervalsT OnDuration="10" OffDuration="50" OnPower="1.75" OffPower="0.5" Repeat="4" />

@@ -2,12 +2,13 @@
     <name>Singletrack Slayer Week 9 5. Race Simulation</name>
     <author>Zwift</author>
     <description>MTB racing places the rider under some extreme circumstances. High power with low cadence, and long threshold efforts are just some examples of what you will experience racing.This is a race-simulation session, with intervals that are representative of a race, that also works on your threshold power. So not only will you get a taste of racing, but you will get a good training benefit too.</description>
+    <category>Singletrack Slayer</category>
+    <subcategory>Week 9</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Singletrack Slayer" />
         <tag name="Week 9" />
-        <tag name="Singletrack Slayer Week 9 5. Race Simulation" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="300" PowerLow="0.42" PowerHigh="0.7" />
         <SteadyState Duration="120" Power="0.5" />

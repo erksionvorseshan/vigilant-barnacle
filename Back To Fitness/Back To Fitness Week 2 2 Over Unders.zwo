@@ -2,12 +2,13 @@
     <name>Back To Fitness Week 2 2. Over - Unders</name>
     <author>Zwift</author>
     <description>This workout is based on the well documented 'over - under' style workout, where you repeatedly tip yourself above and dip below your threshold power. You should get plenty of rest during the 1 minute at 90% of FTP to enable you to manage the 2 minutes spent slightly above your threshold.</description>
+    <category>Back To Fitness</category>
+    <subcategory>Week 2</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Back To Fitness" />
         <tag name="Week 2" />
-        <tag name="Back To Fitness Week 2 2. Over - Unders" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="300" PowerLow="0.4" PowerHigh="1.05" />
         <SteadyState Duration="120" Power="0.5" />

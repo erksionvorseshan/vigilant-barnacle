@@ -2,12 +2,13 @@
     <name>Gravel Grinder Week 12 Short Sweet Spot Tune Up</name>
     <author>Zwift</author>
     <description>Just some super simple builds into the "sweet spot" zone to get that engine firing! No work really needed to do now, but want to keep the legs awake. So, short and sweet this time.</description>
+    <category>Gravel Grinder</category>
+    <subcategory>Week 12</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Gravel Grinder" />
         <tag name="Week 12" />
-        <tag name="Gravel Grinder Week 12 Short Sweet Spot Tune Up" />
-    </tags>
+        </tags>
     <workout>
         <SteadyState Duration="540" Power="0.55" />
         <SteadyState Duration="10" Power="0.8" />

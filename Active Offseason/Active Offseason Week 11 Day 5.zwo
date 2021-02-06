@@ -2,12 +2,13 @@
     <name>Active Offseason Week 11 Day 5</name>
     <author>Zwift</author>
     <description>You get faster when you are resting and recovering, not when you are working hard!! Rest days are about going easy enough to really allow your legs to recover so no efforts over Zone 1 today, take it easy and look at the scenery.</description>
+    <category>Active Offseason</category>
+    <subcategory>Week 11</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Active Offseason" />
         <tag name="Week 11" />
-        <tag name="Active Offseason Week 11 Day 5" />
-    </tags>
+        </tags>
     <workout>
         <SteadyState Duration="2700" Power="0.5" />
     </workout>

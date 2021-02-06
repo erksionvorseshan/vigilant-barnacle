@@ -2,12 +2,13 @@
     <name>Build Me Up Week 11 Aspire</name>
     <author>Zwift</author>
     <description>One of the hardest workouts in this plan, the workload here is designed to give you something to ASPIRE to! What do you think is possible? And what actually is? This workout is designed to show you that you are stronger than you may believe!</description>
+    <category>Build Me Up</category>
+    <subcategory>Week 11</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Build Me Up" />
         <tag name="Week 11" />
-        <tag name="Build Me Up Week 11 Aspire" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="300" PowerLow="0.25" PowerHigh="0.65" />
         <SteadyState Duration="300" Power="0.65" Cadence="95" />

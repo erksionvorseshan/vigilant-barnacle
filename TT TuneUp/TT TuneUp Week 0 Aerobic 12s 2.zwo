@@ -2,12 +2,13 @@
     <name>TT TuneUp Week 0 Aerobic 12's #2</name>
     <author>Zwift</author>
     <description>Aerobic endurance workouts are aimed at improving your efficiency at lower intensity levels. Training your muscles to access fat as its main fuel source and preserve your precious glycogen stores for the finale. After warming up, you will be completing a series of long aerobic efforts with short recovery. Keep an eye on your heart rate response to the sustained power. Are you achieving the same heart rate in the third effort as the first?</description>
+    <category>TT TuneUp</category>
+    <subcategory>Week 0</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="TT TuneUp" />
         <tag name="Week 0" />
-        <tag name="TT TuneUp Week 0 Aerobic 12's #2" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="300" PowerLow="0.45" PowerHigh="0.7" />
         <SteadyState Duration="60" Power="0.7" />

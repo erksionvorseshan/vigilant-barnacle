@@ -2,12 +2,13 @@
     <name>Crit Crusher Week 8 Day 1 - Taper Intervals</name>
     <author>Zwift</author>
     <description>15 min easy warm up. Taper intervals are to be 90 sec in duration. Not too hard, but slightly above 10 mile TT power. Recover @ Z1 for 3 min.</description>
+    <category>Crit Crusher</category>
+    <subcategory>Week 8</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Crit Crusher" />
         <tag name="Week 8" />
-        <tag name="Crit Crusher Week 8 Day 1 - Taper Intervals" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="900" PowerLow="0.25" PowerHigh="0.75" />
         <IntervalsT OnDuration="90" OffDuration="180" OnPower="1.05" OffPower="0.5" Repeat="5" />

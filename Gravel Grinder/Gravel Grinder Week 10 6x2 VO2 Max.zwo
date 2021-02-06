@@ -2,12 +2,13 @@
     <name>Gravel Grinder Week 10 6x2 VO2 Max</name>
     <author>Zwift</author>
     <description>Here we are again with some 2min at upper VO2 zone. This is the hardest sustained efforts we'll complete for this plan, but I think you are ready. It's really important to mentally find a place to go where you can get through these efforts with a good attitude. No way around it, these hurt. Using those fast RPMs will absolutely help here as you just have to keep the trainer from bogging you down here. A warm up, and then 6x's 2min at 120% with 2min break between. Be ready, these efforts will feel like they are coming FAST!</description>
+    <category>Gravel Grinder</category>
+    <subcategory>Week 10</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Gravel Grinder" />
         <tag name="Week 10" />
-        <tag name="Gravel Grinder Week 10 6x2 VO2 Max" />
-    </tags>
+        </tags>
     <workout>
         <SteadyState Duration="180" Power="0.55" />
         <SteadyState Duration="180" Power="0.6" />

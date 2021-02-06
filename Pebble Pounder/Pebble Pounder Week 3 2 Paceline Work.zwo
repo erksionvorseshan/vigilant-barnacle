@@ -2,12 +2,13 @@
     <name>Pebble Pounder Week 3 2. Paceline Work</name>
     <author>Zwift</author>
     <description>This is a great workout for mimicking the demands of working in a paceline. Although gravel events feature mainly off-road and gnarly terrain, they also typically have asphalt and smoother dirt roads. Being able to stay in and work with a group as the speed inevitably increases over this terrain is crucial to achieve maximum speed due to the aerodynamic advantage gained.</description>
+    <category>Pebble Pounder</category>
+    <subcategory>Week 3</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Pebble Pounder" />
         <tag name="Week 3" />
-        <tag name="Pebble Pounder Week 3 2. Paceline Work" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="300" PowerLow="0.4" PowerHigh="0.75" Cadence="0" />
         <IntervalsT OnDuration="30" OffDuration="30" OnPower="1.05" OffPower="0.65" Cadence="105" CadenceResting="85" Repeat="3" />

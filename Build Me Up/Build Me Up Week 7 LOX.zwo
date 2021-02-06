@@ -2,12 +2,13 @@
     <name>Build Me Up Week 7 LOX</name>
     <author>Zwift</author>
     <description>LOX is shorthand for liquid oxygen, which is used in rocket boosters. That is how your legs will feel after that workout - ROCKETS!</description>
+    <category>Build Me Up</category>
+    <subcategory>Week 7</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Build Me Up" />
         <tag name="Week 7" />
-        <tag name="Build Me Up Week 7 LOX" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="600" PowerLow="0.25" PowerHigh="0.75" />
         <IntervalsT OnDuration="30" OffDuration="30" OnPower="0.95" OffPower="0.5" Cadence="95" CadenceResting="85" Repeat="1" />

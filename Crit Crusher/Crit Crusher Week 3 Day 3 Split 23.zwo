@@ -2,12 +2,13 @@
     <name>Crit Crusher Week 3 Day 3 - Split 2/3</name>
     <author>Zwift</author>
     <description>This session is best done indoors on the trainer (A split session, Zone 2 followed by Zone 3). Watch the rpm's change to activate different energy system's and work the legs and lungs.  A cardio workout followed by a leg workout. No recovery between the efforts, so straight into the Zone 3 block from the 30 mins @ zone 2</description>
+    <category>Crit Crusher</category>
+    <subcategory>Week 3</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Crit Crusher" />
         <tag name="Week 3" />
-        <tag name="Crit Crusher Week 3 Day 3 - Split 2/3" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="600" PowerLow="0.25" PowerHigh="0.75" />
         <SteadyState Duration="1800" Power="0.81" />

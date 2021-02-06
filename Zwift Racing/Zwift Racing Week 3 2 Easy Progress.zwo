@@ -2,12 +2,13 @@
     <name>Zwift Racing Week 3 2. Easy Progress</name>
     <author>Zwift</author>
     <description>A progressive zone 2 workout featuring cadence increases every interval.</description>
+    <category>Zwift Racing</category>
+    <subcategory>Week 3</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Zwift Racing" />
         <tag name="Week 3" />
-        <tag name="Zwift Racing Week 3 2. Easy Progress" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="300" PowerLow="0.3" PowerHigh="0.5" />
         <SteadyState Duration="600" Power="0.65" Cadence="75" />

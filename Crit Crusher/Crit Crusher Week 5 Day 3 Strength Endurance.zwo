@@ -2,12 +2,13 @@
     <name>Crit Crusher Week 5 Day 3 - Strength Endurance</name>
     <author>Zwift</author>
     <description>This session is best done indoors on the trainer (A split session, Zone 2 followed by Zone 3). If short for time, drop the Zone 2 effort and go straight into the SE effort from the warm-up.</description>
+    <category>Crit Crusher</category>
+    <subcategory>Week 5</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Crit Crusher" />
         <tag name="Week 5" />
-        <tag name="Crit Crusher Week 5 Day 3 - Strength Endurance" />
-    </tags>
+        </tags>
     <workout>
         <SteadyState Duration="1800" Power="0.65" />
         <SteadyState Duration="300" Power="0.5" />

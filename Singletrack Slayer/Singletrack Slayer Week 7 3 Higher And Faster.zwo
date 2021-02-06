@@ -2,12 +2,13 @@
     <name>Singletrack Slayer Week 7 3. Higher And Faster</name>
     <author>Zwift</author>
     <description>MTB riding often requires you to fight for position before exploding out of the corners. This effort requires a sustained power before accelerating well above threshold.Over a flat course you will have to perform these accelerations at a high cadence, adding another element to your performance.</description>
+    <category>Singletrack Slayer</category>
+    <subcategory>Week 7</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Singletrack Slayer" />
         <tag name="Week 7" />
-        <tag name="Singletrack Slayer Week 7 3. Higher And Faster" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="420" PowerLow="0.5" PowerHigh="0.75" />
         <SteadyState Duration="60" Power="0.5" />

@@ -2,12 +2,13 @@
     <name>Build Me Up Week 0 Sneaky</name>
     <author>Zwift</author>
     <description>The kind of workout that "sneaks" up on you, especially that last interval.</description>
+    <category>Build Me Up</category>
+    <subcategory>Week 0</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Build Me Up" />
         <tag name="Week 0" />
-        <tag name="Build Me Up Week 0 Sneaky" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="300" PowerLow="0.4" PowerHigh="0.6" />
         <SteadyState Duration="300" Power="0.6" Cadence="95" />

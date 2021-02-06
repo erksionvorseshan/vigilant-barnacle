@@ -2,12 +2,13 @@
     <name>Gran Fondo Week 4 Tempo Accelerations</name>
     <author>Zwift</author>
     <description>Steady endurance work trains your body to utilize oxygen to metabolise fat as its fuel source. By incorporating sprint efforts into a steady state effort, you will recruit additional muscle fibres and extend their ability to work aerobically. The sprint efforts increase in duration from 15sec, to 20sec and 30sec.</description>
+    <category>Gran Fondo</category>
+    <subcategory>Week 4</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Gran Fondo" />
         <tag name="Week 4" />
-        <tag name="Gran Fondo Week 4 Tempo Accelerations" />
-    </tags>
+        </tags>
     <workout>
         <SteadyState Duration="180" Power="0.5" />
         <SteadyState Duration="60" Power="0.6" Cadence="85" />

@@ -2,12 +2,13 @@
     <name>Active Offseason Week 12 Day 6</name>
     <author>Zwift</author>
     <description>This is your 12 week test. Warm up well and really CRUSH IT!!</description>
+    <category>Active Offseason</category>
+    <subcategory>Week 12</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Active Offseason" />
         <tag name="Week 12" />
-        <tag name="Active Offseason Week 12 Day 6" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="1200" PowerLow="0.24" PowerHigh="0.74" />
         <SteadyState Duration="300" Power="1.24" />

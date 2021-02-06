@@ -2,12 +2,13 @@
     <name>Crit Crusher Week 5 Day 2 - Cadence Change Efforts</name>
     <author>Zwift</author>
     <description>Start with a 10 minute warm up - Zone 1. Then 40 minutes Zone 2, but for the first 20 seconds of each and every minute, lift your cadence to 110 rpm - whilst maintaining the same power. So lower the resistence/gear and raise your cadence. 10 min cool down</description>
+    <category>Crit Crusher</category>
+    <subcategory>Week 5</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Crit Crusher" />
         <tag name="Week 5" />
-        <tag name="Crit Crusher Week 5 Day 2 - Cadence Change Efforts" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="600" PowerLow="0.25" PowerHigh="0.75" />
         <SteadyState Duration="2400" Power="0.65" />

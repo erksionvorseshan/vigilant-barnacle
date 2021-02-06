@@ -2,12 +2,13 @@
     <name>TT TuneUp Week 7 Cruise Intervals #5</name>
     <author>Zwift</author>
     <description>Today's session consists of 4 long cruise intervals. Cruise intervals are performed within Zone 4. However, we are starting with the hardest interval 1st, and decreasing the power slightly for each interval thereafter. Observe your heart rate across the 4 intervals. Is it decreasing along with the target power? Focus on controlled breathing and pedaling at a cadence similar to your time trial cadence.</description>
+    <category>TT TuneUp</category>
+    <subcategory>Week 7</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="TT TuneUp" />
         <tag name="Week 7" />
-        <tag name="TT TuneUp Week 7 Cruise Intervals #5" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="180" PowerLow="0.44" PowerHigh="0.6" />
         <SteadyState Duration="60" Power="0.6" />

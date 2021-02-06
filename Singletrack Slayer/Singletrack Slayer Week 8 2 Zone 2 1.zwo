@@ -2,12 +2,13 @@
     <name>Singletrack Slayer Week 8 2. Zone 2 #1</name>
     <author>Zwift</author>
     <description>Zone 2 training is one of the most important aspects of any training plan. We don't always get faster by training faster.In Zone 2 training, we are stimulating your type I muscle fibers (slow twitch).Spending time in Zone 2 is absolutely essential to improving performance.</description>
+    <category>Singletrack Slayer</category>
+    <subcategory>Week 8</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Singletrack Slayer" />
         <tag name="Week 8" />
-        <tag name="Singletrack Slayer Week 8 2. Zone 2 #1" />
-    </tags>
+        </tags>
     <workout>
         <SteadyState Duration="180" Power="0.5" />
         <SteadyState Duration="60" Power="0.6" />

@@ -2,12 +2,13 @@
     <name>Gravel Grinder Week 12 Pre Race Spin with Spin-Ups</name>
     <author>Zwift</author>
     <description>It's finally come! You're ready for the last workout before the big event. Nice and easy stuff today. Do this one 2 days or one day before the day to open the legs back up. NOT meant to be hard.Real good day to rid outside or at the very least try out the rig on Zwift free ride. The only efforts will be for 10 seconds to build some RPM"s and that's it.</description>
+    <category>Gravel Grinder</category>
+    <subcategory>Week 12</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Gravel Grinder" />
         <tag name="Week 12" />
-        <tag name="Gravel Grinder Week 12 Pre Race Spin with Spin-Ups" />
-    </tags>
+        </tags>
     <workout>
         <SteadyState Duration="600" Power="0.55" />
         <SteadyState Duration="360" Power="0.7" />

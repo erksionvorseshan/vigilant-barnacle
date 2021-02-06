@@ -2,12 +2,13 @@
     <name>Singletrack Slayer Week 4 4. Rolling Hills #3</name>
     <author>Zwift</author>
     <description>This endurance session focuses on replicating the demands of rolling hills. Just like outdoors, we have a targeted lower cadence for the hills, but the power is well under threshold. The body of this workout involves repeated medium intensity efforts ranging in length from 90sec to 3min.</description>
+    <category>Singletrack Slayer</category>
+    <subcategory>Week 4</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Singletrack Slayer" />
         <tag name="Week 4" />
-        <tag name="Singletrack Slayer Week 4 4. Rolling Hills #3" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="300" PowerLow="0.45" PowerHigh="0.75" />
         <SteadyState Duration="60" Power="0.6" />

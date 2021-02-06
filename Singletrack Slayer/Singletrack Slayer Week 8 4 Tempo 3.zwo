@@ -2,12 +2,13 @@
     <name>Singletrack Slayer Week 8 4. Tempo #3</name>
     <author>Zwift</author>
     <description>Tempo work is the basis of many training programs and is an area of great necessity. The key benefit to completing tempo work indoors is the lack of interruptions to the effort and ERG mode makes things much simpler.Tempo intervals build a foundation of endurance and fatigue resistance.</description>
+    <category>Singletrack Slayer</category>
+    <subcategory>Week 8</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Singletrack Slayer" />
         <tag name="Week 8" />
-        <tag name="Singletrack Slayer Week 8 4. Tempo #3" />
-    </tags>
+        </tags>
     <workout>
         <SteadyState Duration="180" Power="0.5" />
         <IntervalsT OnDuration="60" OffDuration="60" OnPower="0.75" OffPower="0.5" Repeat="2" />

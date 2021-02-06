@@ -2,12 +2,13 @@
     <name>TT TuneUp Week 6 AC + Sweet Spot #1</name>
     <author>Zwift</author>
     <description>The aim today is to both work on your anaerobic capacity, and to also improve your aerobic efficiency. Start out completing a series of AC intervals, before finishing with a sustained sweet spot effort. By depleting your carbohydrate stores with the AC intervals, the sweet spot effort may not be as comfortable as it should be!</description>
+    <category>TT TuneUp</category>
+    <subcategory>Week 6</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="TT TuneUp" />
         <tag name="Week 6" />
-        <tag name="TT TuneUp Week 6 AC + Sweet Spot #1" />
-    </tags>
+        </tags>
     <workout>
         <SteadyState Duration="180" Power="0.5" />
         <IntervalsT OnDuration="10" OffDuration="50" OnPower="2" OffPower="0.5" Repeat="4" />

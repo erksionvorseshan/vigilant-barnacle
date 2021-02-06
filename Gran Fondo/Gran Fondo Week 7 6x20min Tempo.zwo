@@ -2,12 +2,13 @@
     <name>Gran Fondo Week 7 6x20min Tempo</name>
     <author>Zwift</author>
     <description>A set of long intervals focused on endurance in Zone 2. Nothing fancy here, just long bouts of solid work here. This is your last long ride, and is designed to help keep rhythm but without adding any significant fatigue. You should have the fitness by now to execute this and recover fully.</description>
+    <category>Gran Fondo</category>
+    <subcategory>Week 7</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Gran Fondo" />
         <tag name="Week 7" />
-        <tag name="Gran Fondo Week 7 6x20min Tempo" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="300" PowerLow="0.44" PowerHigh="0.75" />
         <SteadyState Duration="60" Power="0.5" />

@@ -2,12 +2,13 @@
     <name>FTP Builder Week 5 Day 3 - Foundation</name>
     <author>Zwift</author>
     <description>Foundation training: Relatively low intensity ride with goal of spending a large proportion of the ride into Endurance Zone 2.</description>
+    <category>FTP Builder</category>
+    <subcategory>Week 5</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="FTP Builder" />
         <tag name="Week 5" />
-        <tag name="FTP Builder Week 5 Day 3 - Foundation" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="300" PowerLow="0.49" PowerHigh="0.54" />
         <SteadyState Duration="480" Power="0.72" />

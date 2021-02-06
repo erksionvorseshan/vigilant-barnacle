@@ -2,12 +2,13 @@
     <name>Gravel Grinder Week 7 Free Ride</name>
     <author>Zwift</author>
     <description>A long base type ride for you today. Aerobic work FTW. Seriously though, you definitely need aerobic fitness as well as hard riding fitness to win in gravel. So, this might not seem like as important of a type of ride to do, but I promise you it is!Today would be a good ride to do outside, or on the current Zwift course as you wish. BUT, please do not go into Z3 if you can help it. Just smooth, smooth riding in "the zone".</description>
+    <category>Gravel Grinder</category>
+    <subcategory>Week 7</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Gravel Grinder" />
         <tag name="Week 7" />
-        <tag name="Gravel Grinder Week 7 Free Ride" />
-    </tags>
+        </tags>
     <workout>
         <SteadyState Duration="600" Power="0.55" />
         <FreeRide Duration="2400" />

@@ -2,12 +2,13 @@
     <name>Gravel Grinder Week 6 5x8 Building Base</name>
     <author>Zwift</author>
     <description>Base effort riding! Longer ride for you today with some smooth builds to keep it interesting. Nothing crazy at all but just 1min blocks at 85% being the hardest you'll have. Today iss a good day for an outside ride in Z1-2 if you are so inclined, but also a free-ride on the optional day as well.</description>
+    <category>Gravel Grinder</category>
+    <subcategory>Week 6</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Gravel Grinder" />
         <tag name="Week 6" />
-        <tag name="Gravel Grinder Week 6 5x8 Building Base" />
-    </tags>
+        </tags>
     <workout>
         <SteadyState Duration="840" Power="0.6" />
         <SteadyState Duration="60" Power="0.85" />

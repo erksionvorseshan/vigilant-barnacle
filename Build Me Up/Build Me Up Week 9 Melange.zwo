@@ -2,12 +2,13 @@
     <name>Build Me Up Week 9 Melange</name>
     <author>Zwift</author>
     <description>Featuring a blend of work across a range of zones, this is a potent cocktail designed to boost your fitness.</description>
+    <category>Build Me Up</category>
+    <subcategory>Week 9</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Build Me Up" />
         <tag name="Week 9" />
-        <tag name="Build Me Up Week 9 Melange" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="300" PowerLow="0.25" PowerHigh="0.55" />
         <SteadyState Duration="300" Power="0.55" Cadence="95" />

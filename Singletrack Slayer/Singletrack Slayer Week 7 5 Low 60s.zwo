@@ -2,12 +2,13 @@
     <name>Singletrack Slayer Week 7 5. Low 60's</name>
     <author>Zwift</author>
     <description>When we complete short steep climbs, the lower cadence results in high crank torque, which in turn recruits more of your fast twitch fibers. With this in mind, it's important that our training meets the demands of this movement.Today we are performing lower cadence intervals but with power just above threshold.</description>
+    <category>Singletrack Slayer</category>
+    <subcategory>Week 7</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Singletrack Slayer" />
         <tag name="Week 7" />
-        <tag name="Singletrack Slayer Week 7 5. Low 60's" />
-    </tags>
+        </tags>
     <workout>
         <SteadyState Duration="300" Power="0.5" />
         <IntervalsT OnDuration="30" OffDuration="30" OnPower="0.64" OffPower="0.8" Repeat="5" />

@@ -2,12 +2,13 @@
     <name>Active Offseason Week 8 Day 4</name>
     <author>Zwift</author>
     <description>You get faster when you are resting and recovering, not when you are working hard!! Rest days are about going easy enough to really allow your legs to recover.</description>
+    <category>Active Offseason</category>
+    <subcategory>Week 8</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Active Offseason" />
         <tag name="Week 8" />
-        <tag name="Active Offseason Week 8 Day 4" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="600" PowerLow="0.24" PowerHigh="0.6" />
         <SteadyState Duration="300" Power="0.5" />

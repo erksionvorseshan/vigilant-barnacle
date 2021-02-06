@@ -2,12 +2,13 @@
     <name>Build Me Up Week 11 Thew</name>
     <author>Zwift</author>
     <description>A hard workout that requires a lot of "strength" both physically and mentally to accomplish. Thew, in case you didn't know it, is a fancy word meaning, "muscular strength." You learned something new and got more fit. Hard to beat that!</description>
+    <category>Build Me Up</category>
+    <subcategory>Week 11</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Build Me Up" />
         <tag name="Week 11" />
-        <tag name="Build Me Up Week 11 Thew" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="600" PowerLow="0.25" PowerHigh="0.75" />
         <SteadyState Duration="30" Power="0.95" Cadence="95" />

@@ -2,12 +2,13 @@
     <name>Active Offseason Week 4 Day 1</name>
     <author>Zwift</author>
     <description>Today is an Active Recovery day targeting ONLY Active Recovery. Focus on relaxing on the bike and enjoying the ride.</description>
+    <category>Active Offseason</category>
+    <subcategory>Week 4</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Active Offseason" />
         <tag name="Week 4" />
-        <tag name="Active Offseason Week 4 Day 1" />
-    </tags>
+        </tags>
     <workout>
         <FreeRide Power="0.52" />
     </workout>

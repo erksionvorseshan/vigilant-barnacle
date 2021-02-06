@@ -2,12 +2,13 @@
     <name>Build Me Up Week 10 Serrated</name>
     <author>Zwift</author>
     <description>Intervals that come up to a very sharp point, looking like a serrated knife upon post-workout review. This workout will make you sharp for race day, ready to tackle the surges of terrain and competition.</description>
+    <category>Build Me Up</category>
+    <subcategory>Week 10</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Build Me Up" />
         <tag name="Week 10" />
-        <tag name="Build Me Up Week 10 Serrated" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="300" PowerLow="0.4" PowerHigh="0.65" />
         <SteadyState Duration="300" Power="0.65" Cadence="95" />

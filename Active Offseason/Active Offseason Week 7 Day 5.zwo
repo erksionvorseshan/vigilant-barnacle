@@ -2,12 +2,13 @@
     <name>Active Offseason Week 7 Day 5</name>
     <author>Zwift</author>
     <description>We're building endurance today! 10 minutes working into Endurance with 3 sets of 1 minute fast pedals to open up legs. Then ride in Endurance. Focus on staying relaxed on the bike and spinning circles while keeping your cadence between 90 and 100. During the ride, complete 2 x 20 minute FTP intervals, with 10 minutes of rest between each interval. Finish with 15 minutes of cooldown in Active Recovery.</description>
+    <category>Active Offseason</category>
+    <subcategory>Week 7</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Active Offseason" />
         <tag name="Week 7" />
-        <tag name="Active Offseason Week 7 Day 5" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="600" PowerLow="0.25" PowerHigh="0.75" />
         <SteadyState Duration="2700" Power="0.75" />

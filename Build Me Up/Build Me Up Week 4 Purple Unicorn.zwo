@@ -2,12 +2,13 @@
     <name>Build Me Up Week 4 Purple Unicorn</name>
     <author>Zwift</author>
     <description>All the Unicorn workouts are based off of the visual spectrum (Red, Orange, Yellow, Green, Blue, Indigo, Violet (purple)) with the same order of easiest to hardest.  So, Red Unicorn features the least training load, Orange Unicorn the second, and Purple the hardest... Enjoy!</description>
+    <category>Build Me Up</category>
+    <subcategory>Week 4</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Build Me Up" />
         <tag name="Week 4" />
-        <tag name="Build Me Up Week 4 Purple Unicorn" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="600" PowerLow="0.25" PowerHigh="0.75" />
         <IntervalsT OnDuration="30" OffDuration="30" OnPower="0.85" OffPower="0.5" Cadence="95" CadenceResting="85" Repeat="1" />

@@ -2,12 +2,13 @@
     <name>Gran Fondo Week 6 Intervals &amp; Prog SST</name>
     <author>Zwift</author>
     <description>For the long ride this week, we start out with a block of SST intervals. The main long block of work consists of long, steady Zone 2 blocks punctuated by 5min of progressively more intensive SST.</description>
+    <category>Gran Fondo</category>
+    <subcategory>Week 6</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Gran Fondo" />
         <tag name="Week 6" />
-        <tag name="Gran Fondo Week 6 Intervals &amp; Prog SST" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="600" PowerLow="0.5" PowerHigh="0.75" />
         <SteadyState Duration="300" Power="0.75" />

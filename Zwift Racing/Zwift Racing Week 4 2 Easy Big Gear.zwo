@@ -2,12 +2,13 @@
     <name>Zwift Racing Week 4 2. Easy Big Gear</name>
     <author>Zwift</author>
     <description>A zone 2 ride featuring low cadence work intervals.</description>
+    <category>Zwift Racing</category>
+    <subcategory>Week 4</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Zwift Racing" />
         <tag name="Week 4" />
-        <tag name="Zwift Racing Week 4 2. Easy Big Gear" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="300" PowerLow="0.3" PowerHigh="0.5" Cadence="85" />
         <SteadyState Duration="600" Power="0.65" Cadence="90" />

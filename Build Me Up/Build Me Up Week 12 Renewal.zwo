@@ -2,12 +2,13 @@
     <name>Build Me Up Week 12 Renewal</name>
     <author>Zwift</author>
     <description>Recovery. Regeneration. Renewal. It is just as important at the hard stuff. Fast cadence efforts facilitate flushing the legs without fatiguing them. Today is an active recovery day, NO HARD EFFORTS!</description>
+    <category>Build Me Up</category>
+    <subcategory>Week 12</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Build Me Up" />
         <tag name="Week 12" />
-        <tag name="Build Me Up Week 12 Renewal" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="300" PowerLow="0.25" PowerHigh="0.5" />
         <SteadyState Duration="300" Power="0.5" Cadence="95" />

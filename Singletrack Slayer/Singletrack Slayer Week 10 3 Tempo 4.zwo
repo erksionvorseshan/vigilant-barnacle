@@ -2,12 +2,13 @@
     <name>Singletrack Slayer Week 10 3. Tempo #4</name>
     <author>Zwift</author>
     <description>Tempo work is the basis of many training programs and is an area of great necessity. The key benefit to completing tempo work indoors is the lack of interruptions to the effort and ERG mode makes things much simpler.In this workout we move around tempo intensity, but with dramatic changes in target cadence.</description>
+    <category>Singletrack Slayer</category>
+    <subcategory>Week 10</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Singletrack Slayer" />
         <tag name="Week 10" />
-        <tag name="Singletrack Slayer Week 10 3. Tempo #4" />
-    </tags>
+        </tags>
     <workout>
         <SteadyState Duration="180" Power="0.5" />
         <SteadyState Duration="60" Power="0.6" />

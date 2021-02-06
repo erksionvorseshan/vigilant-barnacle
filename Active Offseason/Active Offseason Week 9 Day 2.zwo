@@ -2,12 +2,13 @@
     <name>Active Offseason Week 9 Day 2</name>
     <author>Zwift</author>
     <description>Classic FTP Intervals, 3 x 10 minutes</description>
+    <category>Active Offseason</category>
+    <subcategory>Week 9</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Active Offseason" />
         <tag name="Week 9" />
-        <tag name="Active Offseason Week 9 Day 2" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="600" PowerLow="0.25" PowerHigh="0.75" />
         <IntervalsT OnDuration="600" OffDuration="300" OnPower="1" OffPower="0.65" Repeat="3" />

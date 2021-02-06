@@ -2,12 +2,13 @@
     <name>Build Me Up Week 8 Hang Ten</name>
     <author>Zwift</author>
     <description>Intervals that look like a wave. Surfs Up! "Hang ten, brotha!"</description>
+    <category>Build Me Up</category>
+    <subcategory>Week 8</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Build Me Up" />
         <tag name="Week 8" />
-        <tag name="Build Me Up Week 8 Hang Ten" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="300" PowerLow="0.25" PowerHigh="0.6" />
         <SteadyState Duration="300" Power="0.6" />

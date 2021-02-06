@@ -2,12 +2,13 @@
     <name>Build Me Up Week 8 Pedaling Drills</name>
     <author>Zwift</author>
     <description>We are working on your pedaling mechanics and basic skills here. These drills will help make you a more efficient rider, pedal with less wasted energy, and gain some "free" speed as you will be better able to put power through the entire pedal stroke instead of just the push down and pull up phases as most riders do. Imagine pedaling in circles rather than having 2 pistons for legs.</description>
+    <category>Build Me Up</category>
+    <subcategory>Week 8</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Build Me Up" />
         <tag name="Week 8" />
-        <tag name="Build Me Up Week 8 Pedaling Drills" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="600" PowerLow="0.4" PowerHigh="0.75" />
         <SteadyState Duration="30" Power="0.85" Cadence="95" />

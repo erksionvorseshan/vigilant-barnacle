@@ -2,12 +2,13 @@
     <name>Crit Crusher Week 4 Day 2 - Zone 1 ride</name>
     <author>Zwift</author>
     <description>This is predominantly a fat burning ride - low efforts which will build and create a far greater mitochondrial density. Which carries more oxygen to the working muscles later... more easy riding will support the hard workouts nicely.HIGH CADENCE - LOW POWER - FAST BREATHING</description>
+    <category>Crit Crusher</category>
+    <subcategory>Week 4</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Crit Crusher" />
         <tag name="Week 4" />
-        <tag name="Crit Crusher Week 4 Day 2 - Zone 1 ride" />
-    </tags>
+        </tags>
     <workout>
         <FreeRide Power="0.5" />
     </workout>

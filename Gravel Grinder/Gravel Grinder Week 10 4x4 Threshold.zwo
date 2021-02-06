@@ -2,12 +2,13 @@
     <name>Gravel Grinder Week 10 4x4 Threshold</name>
     <author>Zwift</author>
     <description>Some building 4min blocks for you today around and above threshold. You can think of them of hill "reps" if you'd like, or you can think of them as some good old fashioned "4x4mins", or whatever will get you in the head space. All you really need to worry about is the fact that you need be ready for some solid sustained efforts, but ones you can definitely hit. A solid little block of warm up and then into 4 blocks starting at 95% building up to 110%. First few will feel smooth, last one will suck a little, but you got it.</description>
+    <category>Gravel Grinder</category>
+    <subcategory>Week 10</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Gravel Grinder" />
         <tag name="Week 10" />
-        <tag name="Gravel Grinder Week 10 4x4 Threshold" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="600" PowerLow="0.35" PowerHigh="0.65" />
         <SteadyState Duration="60" Power="0.8" />

@@ -2,12 +2,13 @@
     <name>Fondo Week 3 Zwift Fondo Wk3 Wo2: Low Cadence</name>
     <author>Zwift</author>
     <description>Focused low-cadence 3min intervals (2min recovery) bracketing goal 90% FTP power. Build all while holding a good low cadence down in the 50s. Recovery with high cadence and still reasonable aerobic power. Build from 1-4, drop down for #5 - but not quite as low as #1 - and then build back up to #8.The power here shouldn't be a challenge... except for the cadence. If you can get comfortable generating your target race power with a firm cadence cap, it becomes a lot easier on race day when you can ride whatever cadence you choose.During the warm-up, don't worry about anything other than getting the legs firing. We're not sprinting here and the workout starts pretty easy, so just start easy and build to some solid aerobic power by the end.The cadence caps on the hard work are critical, so make sure not to cheat up and spin a bit faster to make it easier. Just nice and relaxed open cool-down to finish.</description>
+    <category>Fondo</category>
+    <subcategory>Week 3</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Fondo" />
         <tag name="Week 3" />
-        <tag name="Fondo Week 3 Zwift Fondo Wk3 Wo2: Low Cadence" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="480" PowerLow="0.55" PowerHigh="0.75" />
         <SteadyState Duration="180" Power="0.85" Cadence="55" />

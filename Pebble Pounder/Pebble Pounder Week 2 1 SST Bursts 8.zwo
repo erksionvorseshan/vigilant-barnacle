@@ -2,12 +2,13 @@
     <name>Pebble Pounder Week 2 1. SST Bursts 8</name>
     <author>Zwift</author>
     <description>The 2nd workout this week will progress our SST burst workout of last week by an additional 5min, and 2 bursts! We'll also keep the same focus of high torque during the burst efforts to keep it specific to gravel grinding.</description>
+    <category>Pebble Pounder</category>
+    <subcategory>Week 2</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Pebble Pounder" />
         <tag name="Week 2" />
-        <tag name="Pebble Pounder Week 2 1. SST Bursts 8" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="300" PowerLow="0.4" PowerHigh="0.75" Cadence="0" />
         <IntervalsT OnDuration="30" OffDuration="30" OnPower="1.05" OffPower="0.65" Cadence="105" CadenceResting="85" Repeat="3" />

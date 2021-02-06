@@ -2,12 +2,13 @@
     <name>Zwift Racing Week 6 1. Mend</name>
     <author>Zwift</author>
     <description>An active recovery workout featuring high cadence intervals.</description>
+    <category>Zwift Racing</category>
+    <subcategory>Week 6</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Zwift Racing" />
         <tag name="Week 6" />
-        <tag name="Zwift Racing Week 6 1. Mend" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="300" PowerLow="0.25" PowerHigh="0.5" />
         <SteadyState Duration="300" Power="0.5" Cadence="95" />

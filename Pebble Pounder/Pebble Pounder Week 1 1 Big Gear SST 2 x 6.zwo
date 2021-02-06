@@ -2,12 +2,13 @@
     <name>Pebble Pounder Week 1 1. Big Gear SST - 2 x 6</name>
     <author>Zwift</author>
     <description>Welcome to the Pebble Pounder! I am stoked to have you partake in it, and start your journey into the World of 'gravel grinding'. Today's workout begins our plan, and features 2 very important aspects of completing a gravel event - being able to hold power close to threshold (aka sweet spot, or SST), and also being able to maintain this power at a lower than normal cadence (aka big gear).</description>
+    <category>Pebble Pounder</category>
+    <subcategory>Week 1</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Pebble Pounder" />
         <tag name="Week 1" />
-        <tag name="Pebble Pounder Week 1 1. Big Gear SST - 2 x 6" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="300" PowerLow="0.4" PowerHigh="0.75" Cadence="0" />
         <IntervalsT OnDuration="30" OffDuration="30" OnPower="1.05" OffPower="0.65" Cadence="105" CadenceResting="85" Repeat="3" />

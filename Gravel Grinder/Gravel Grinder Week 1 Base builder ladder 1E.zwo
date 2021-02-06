@@ -2,12 +2,13 @@
     <name>Gravel Grinder Week 1 Base builder ladder 1E</name>
     <author>Zwift</author>
     <description>The title says it all! Sometimes we just have to get some good old fashioned base miles in the tank. This ride is about finding good RPMs and just rolling at a comfortable clip and settling in. Today is a GREAT day to add some free riding after at 55%-70% FTP on the current Zwift course or getting out the door for some fresh air is also a great option.</description>
+    <category>Gravel Grinder</category>
+    <subcategory>Week 1</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Gravel Grinder" />
         <tag name="Week 1" />
-        <tag name="Gravel Grinder Week 1 Base builder ladder 1E" />
-    </tags>
+        </tags>
     <workout>
         <SteadyState Duration="300" Power="0.55" />
         <SteadyState Duration="60" Power="0.8" />

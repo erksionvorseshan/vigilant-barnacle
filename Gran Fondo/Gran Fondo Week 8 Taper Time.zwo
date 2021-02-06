@@ -2,12 +2,13 @@
     <name>Gran Fondo Week 8 Taper Time</name>
     <author>Zwift</author>
     <description>The hard work is done! It is time to TAPER! Keep your muscles firing as we back off the load to let you recover and freshen up for the big day!</description>
+    <category>Gran Fondo</category>
+    <subcategory>Week 8</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Gran Fondo" />
         <tag name="Week 8" />
-        <tag name="Gran Fondo Week 8 Taper Time" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="300" PowerLow="0.55" PowerHigh="0.75" />
         <SteadyState Duration="270" Power="0.75" />

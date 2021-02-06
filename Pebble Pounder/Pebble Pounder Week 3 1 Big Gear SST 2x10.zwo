@@ -2,12 +2,13 @@
     <name>Pebble Pounder Week 3 1. Big Gear SST - 2x10</name>
     <author>Zwift</author>
     <description>Welcome back to the 3rd week of the Pebble Pounder! Today, we're going to be continuing our progressive build of time spent at SST, as well as further improve your ability to sustain low cadence for a longer duration. Let's CRUSH it today!</description>
+    <category>Pebble Pounder</category>
+    <subcategory>Week 3</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Pebble Pounder" />
         <tag name="Week 3" />
-        <tag name="Pebble Pounder Week 3 1. Big Gear SST - 2x10" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="300" PowerLow="0.4" PowerHigh="0.75" Cadence="0" />
         <SteadyState Duration="30" Power="0.8" Cadence="85" />

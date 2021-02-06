@@ -2,12 +2,13 @@
     <name>Singletrack Slayer Week 1 2. Accelerations</name>
     <author>Zwift</author>
     <description>The ability to accelerate into corners and to be better placed for the start of a climb is an important factor in any MTB race. But quite often these accelerations occur from an already high, steady power.In this session, we replicate this demand by completing a series of sprints that are preceded by a steady state effort.</description>
+    <category>Singletrack Slayer</category>
+    <subcategory>Week 1</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Singletrack Slayer" />
         <tag name="Week 1" />
-        <tag name="Singletrack Slayer Week 1 2. Accelerations" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="300" PowerLow="0.42" PowerHigh="0.7" />
         <SteadyState Duration="120" Power="0.5" />

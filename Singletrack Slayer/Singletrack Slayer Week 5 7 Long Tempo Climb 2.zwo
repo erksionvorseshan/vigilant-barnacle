@@ -2,12 +2,13 @@
     <name>Singletrack Slayer Week 5 7. Long Tempo Climb #2</name>
     <author>Zwift</author>
     <description>Working your way into the longer climbs requires good pacing and the ability to lift the power towards the crest. In this session we roll up some 7min climbs, with the final 3min being where the gradient and power kicks up.</description>
+    <category>Singletrack Slayer</category>
+    <subcategory>Week 5</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Singletrack Slayer" />
         <tag name="Week 5" />
-        <tag name="Singletrack Slayer Week 5 7. Long Tempo Climb #2" />
-    </tags>
+        </tags>
     <workout>
         <SteadyState Duration="180" Power="0.5" />
         <SteadyState Duration="60" Power="0.6" />

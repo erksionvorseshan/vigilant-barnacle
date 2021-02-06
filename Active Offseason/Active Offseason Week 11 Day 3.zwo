@@ -2,12 +2,13 @@
     <name>Active Offseason Week 11 Day 3</name>
     <author>Zwift</author>
     <description>Power Step Ups! Steadily ramp up your power from Zone 2 up to Zone 4. Repeat for 1:30:00.</description>
+    <category>Active Offseason</category>
+    <subcategory>Week 11</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Active Offseason" />
         <tag name="Week 11" />
-        <tag name="Active Offseason Week 11 Day 3" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="600" PowerLow="0.25" PowerHigh="0.75" />
         <Ramp Duration="900" PowerLow="0.75" PowerHigh="0.95" />

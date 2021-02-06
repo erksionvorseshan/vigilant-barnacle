@@ -2,12 +2,13 @@
     <name>FTP Builder Week 2 Day 5 - Optional</name>
     <author>Zwift</author>
     <description>This optional training can be done in any other day of the week, not necessarily as last day.</description>
+    <category>FTP Builder</category>
+    <subcategory>Week 2</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="FTP Builder" />
         <tag name="Week 2" />
-        <tag name="FTP Builder Week 2 Day 5 - Optional" />
-    </tags>
+        </tags>
     <workout>
         <SteadyState Duration="300" Power="0.52" />
         <SteadyState Duration="120" Power="0.72" />

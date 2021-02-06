@@ -2,12 +2,13 @@
     <name>Build Me Up Week 10 Baffling Beau</name>
     <author>Zwift</author>
     <description>This workout was developed around Valentine's Day and is a special present for a special someone... YOU! The workout is almost bafflingly challenging at times, hence the name. Will it be your sweetheart? Or leave you wondering what just happened? Only one way to find out...</description>
+    <category>Build Me Up</category>
+    <subcategory>Week 10</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Build Me Up" />
         <tag name="Week 10" />
-        <tag name="Build Me Up Week 10 Baffling Beau" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="600" PowerLow="0.25" PowerHigh="0.75" />
         <SteadyState Duration="30" Power="0.95" Cadence="95" />

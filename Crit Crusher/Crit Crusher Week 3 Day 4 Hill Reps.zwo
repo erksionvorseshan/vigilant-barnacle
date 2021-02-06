@@ -2,12 +2,13 @@
     <name>Crit Crusher Week 3 Day 4 - Hill Reps</name>
     <author>Zwift</author>
     <description>warm up - 15 min...4 x 5 min reps with 5mins recovery between each rep.remain seated whilst climbing. . Idea for today is to not raise heart rates too high but concentrate pressing down hardfrom tops of thighs, keeping a strict style working the core. Keep the burning sensations going. strengthening your ankles, knees and hips. Kind of a GYM session on the bike.  Perhaps do the last one at full speed to flood your body with the lactate.</description>
+    <category>Crit Crusher</category>
+    <subcategory>Week 3</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Crit Crusher" />
         <tag name="Week 3" />
-        <tag name="Crit Crusher Week 3 Day 4 - Hill Reps" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="900" PowerLow="0.25" PowerHigh="0.75" />
         <IntervalsT OnDuration="300" OffDuration="300" OnPower="0.89" OffPower="0.5" Repeat="5" />

@@ -2,12 +2,13 @@
     <name>Back To Fitness Week 2 1. Slow Motion</name>
     <author>Zwift</author>
     <description>This workout offers an introduction to strength endurance training, which will likely be a new type of effort for you. Riding at a low cadence really draws upon your strength, which is critical for cycling. As the blocks get shorter, the intensity increases - all at 55rpm! A challenging session - enjoy!</description>
+    <category>Back To Fitness</category>
+    <subcategory>Week 2</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Back To Fitness" />
         <tag name="Week 2" />
-        <tag name="Back To Fitness Week 2 1. Slow Motion" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="300" PowerLow="0.4" PowerHigh="1.05" />
         <SteadyState Duration="120" Power="0.5" />

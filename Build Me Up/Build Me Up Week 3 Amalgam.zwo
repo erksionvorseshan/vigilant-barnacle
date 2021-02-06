@@ -2,12 +2,13 @@
     <name>Build Me Up Week 3 Amalgam</name>
     <author>Zwift</author>
     <description>5 different interval "Amalgams" for your fitness pleasure! We will be mixing it up with on-bike position changes as well as working on pedaling fluidity. Then 10 minutes right at FTP... You can do it! Follow that up with some short and sharp efforts... #Power! And then a series of "Shark Teeth!" Finish off today with ANOTHER 10 minutes right at FTP! Even though you'll be tired, I know you can do it! #MentalStrength</description>
+    <category>Build Me Up</category>
+    <subcategory>Week 3</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Build Me Up" />
         <tag name="Week 3" />
-        <tag name="Build Me Up Week 3 Amalgam" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="600" PowerLow="0.4" PowerHigh="0.75" />
         <IntervalsT OnDuration="30" OffDuration="30" OnPower="0.95" OffPower="0.5" Cadence="95" CadenceResting="85" Repeat="1" />

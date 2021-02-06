@@ -2,12 +2,13 @@
     <name>TT TuneUp Week 5 Power Intervals #1</name>
     <author>Zwift</author>
     <description>The focus of today's session is to improve your ability to produce power. To be able to turn a big gear faster. By completing high power intervals with slightly less cadence, we increase the torque applied to the crank, boosting muscular endurance power. Two sets of short intervals with short recovery. However, the opening high power effort has a target cadence of 85rpm, before completing the remaining time at a self selected cadence.</description>
+    <category>TT TuneUp</category>
+    <subcategory>Week 5</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="TT TuneUp" />
         <tag name="Week 5" />
-        <tag name="TT TuneUp Week 5 Power Intervals #1" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="300" PowerLow="0.45" PowerHigh="0.75" />
         <IntervalsT OnDuration="60" OffDuration="60" OnPower="0.8" OffPower="0.5" Repeat="2" />

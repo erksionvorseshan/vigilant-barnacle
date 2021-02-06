@@ -2,12 +2,13 @@
     <name>Active Offseason Week 3 Day 2</name>
     <author>Zwift</author>
     <description>Today is an Active Recovery day targeting ONLY Active Recovery. Focus on relaxing on the bike and enjoying the ride.</description>
+    <category>Active Offseason</category>
+    <subcategory>Week 3</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Active Offseason" />
         <tag name="Week 3" />
-        <tag name="Active Offseason Week 3 Day 2" />
-    </tags>
+        </tags>
     <workout>
         <SteadyState Duration="1800" Power="0.52" />
     </workout>

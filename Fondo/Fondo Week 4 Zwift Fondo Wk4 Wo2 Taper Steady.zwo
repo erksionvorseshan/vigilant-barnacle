@@ -2,12 +2,13 @@
     <name>Fondo Week 4 Zwift Fondo Wk4 Wo2: Taper Steady</name>
     <author>Zwift</author>
     <description>Keeping the rhythm flowing here. Some, nice light work just to keep things ticking over. Hold that rhythm right through to the Fondo!</description>
+    <category>Fondo</category>
+    <subcategory>Week 4</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Fondo" />
         <tag name="Week 4" />
-        <tag name="Fondo Week 4 Zwift Fondo Wk4 Wo2: Taper Steady" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="600" PowerLow="0.55" PowerHigh="0.7" />
         <SteadyState Duration="300" Power="0.7" />

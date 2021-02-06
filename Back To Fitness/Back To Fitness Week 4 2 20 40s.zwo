@@ -2,12 +2,13 @@
     <name>Back To Fitness Week 4 2. 20-40's</name>
     <author>Zwift</author>
     <description>This workout really gets your Type II (Fast Twitch) muscle fibers firing, by completing 20 x 20-second sprint efforts. There are huge gains to be made through sprint training, even if your target event doesn't involve sprinting - you will love being more powerful and explosive on the bike.</description>
+    <category>Back To Fitness</category>
+    <subcategory>Week 4</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Back To Fitness" />
         <tag name="Week 4" />
-        <tag name="Back To Fitness Week 4 2. 20-40's" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="300" PowerLow="0.4" PowerHigh="1.05" />
         <SteadyState Duration="120" Power="0.5" />

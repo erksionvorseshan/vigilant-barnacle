@@ -2,12 +2,13 @@
     <name>Crit Crusher Week 2 Day 1 - Strength Training</name>
     <author>Zwift</author>
     <description>Start with a good warm up. Then 4 x 5 mins at FTP with 5 mins recovery between efforts, spin your legs easily for 10 minutes then 6 x 1 minute Upper Z6 power efforts with 2 minutes recovery in between - spin your legs out for 10 minutes then finally 10 x 15 second max sprint efforts with 45 seconds rest inbetweeen efforts.</description>
+    <category>Crit Crusher</category>
+    <subcategory>Week 2</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Crit Crusher" />
         <tag name="Week 2" />
-        <tag name="Crit Crusher Week 2 Day 1 - Strength Training" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="600" PowerLow="0.25" PowerHigh="0.75" />
         <IntervalsT OnDuration="300" OffDuration="300" OnPower="1" OffPower="0.5" Repeat="4" />

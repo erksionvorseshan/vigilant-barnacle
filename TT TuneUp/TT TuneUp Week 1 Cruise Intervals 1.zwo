@@ -2,12 +2,13 @@
     <name>TT TuneUp Week 1 Cruise Intervals #1</name>
     <author>Zwift</author>
     <description>Today's session consists of sustained cruise intervals. However, each cruise interval is proceeded by a hard Zone 5 interval. Cruise intervals are performed within Zone 4, however we are changing the target power every minute from slightly up and down within a narrow power band. Focus on controlled breathing and pedaling at a cadence similar to your time trial cadence.</description>
+    <category>TT TuneUp</category>
+    <subcategory>Week 1</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="TT TuneUp" />
         <tag name="Week 1" />
-        <tag name="TT TuneUp Week 1 Cruise Intervals #1" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="300" PowerLow="0.45" PowerHigh="0.75" />
         <IntervalsT OnDuration="30" OffDuration="30" OnPower="0.65" OffPower="0.89" Repeat="5" />

@@ -2,12 +2,13 @@
     <name>Dirt Destroyer Week 5 1. 24 Shots to Fire</name>
     <author>Zwift</author>
     <description>This workout really works your top end - your anaerobic capacity, which is your ability to make really hard efforts.In mountain biking, to get up a short steep climb, or to get through some mud or over roots, the best way is to do it quickly - lots of power for a short period of time.This session gets our anaerobic energy systems firing, as we make repeated 30 second efforts which increase in intensity through the blocks.Don't be discouraged if your power drops throughout the blocks. You'll burn a lot of matches as you progress through the session, so just try and hold on as long as you can as you will still benefit from the effort.In the same fashion - don't go out too hard! This is a fairly long session, so in the first block, just do what you need to do, 140% of FTP and no more.</description>
+    <category>Dirt Destroyer</category>
+    <subcategory>Week 5</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Dirt Destroyer" />
         <tag name="Week 5" />
-        <tag name="Dirt Destroyer Week 5 1. 24 Shots to Fire" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="420" PowerLow="0.43" PowerHigh="0.74" />
         <SteadyState Duration="30" Power="1.09" />

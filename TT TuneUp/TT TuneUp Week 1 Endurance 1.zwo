@@ -2,12 +2,13 @@
     <name>TT TuneUp Week 1 Endurance #1</name>
     <author>Zwift</author>
     <description>After warming up, the focus is on improving your aerobic endurance. The main set consists of a steady aerobic effort. However, every few minutes you will perform a short surge at high power.</description>
+    <category>TT TuneUp</category>
+    <subcategory>Week 1</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="TT TuneUp" />
         <tag name="Week 1" />
-        <tag name="TT TuneUp Week 1 Endurance #1" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="360" PowerLow="0.45" PowerHigh="0.75" />
         <SteadyState Duration="60" Power="0.5" />

@@ -2,12 +2,13 @@
     <name>Gran Fondo Week 2 Endurance Free Ride</name>
     <author>Zwift</author>
     <description>Take a break from the structured training and take some time to listen to your body. This is a great time to get outside if you can. Or enjoy the terrain of Zwift. Ride how you feel, but keep it on the easier side.         If you need to skip or miss a day, this is the session to take a pass on. But if just need a mental break, feel free to opt for this session over one of the harder workouts. You can also replace this with a social group ride of about an hour, in Zwift or with your friends.</description>
+    <category>Gran Fondo</category>
+    <subcategory>Week 2</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Gran Fondo" />
         <tag name="Week 2" />
-        <tag name="Gran Fondo Week 2 Endurance Free Ride" />
-    </tags>
+        </tags>
     <workout>
         <FreeRide Duration="3000" />
     </workout>

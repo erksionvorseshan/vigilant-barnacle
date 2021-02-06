@@ -2,12 +2,13 @@
     <name>Fondo Week 4 Zwift Fondo Wk4 Wo1: Taper Time</name>
     <author>Zwift</author>
     <description>The hard work is done! It is time to TAPER! Keep your muscles firing as we back off the load to let you recover and freshen up for the big day!</description>
+    <category>Fondo</category>
+    <subcategory>Week 4</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Fondo" />
         <tag name="Week 4" />
-        <tag name="Fondo Week 4 Zwift Fondo Wk4 Wo1: Taper Time" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="300" PowerLow="0.55" PowerHigh="0.75" />
         <SteadyState Duration="270" Power="0.75" />

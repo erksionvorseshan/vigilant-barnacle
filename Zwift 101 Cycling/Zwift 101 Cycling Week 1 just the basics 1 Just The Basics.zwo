@@ -2,12 +2,13 @@
     <name>Zwift 101: Cycling Week 1-just-the-basics 1. Just The Basics</name>
     <author>Zwift</author>
     <description>This workout introduces some of the basics around typical endurance training. Most riders will spend most of their time in the Base (Zone 2) and Tempo (Zone 3) zones. These are comfortable, mostly aerobic intensities that will help you gain real fitness and make riding a bike more fun.</description>
+    <category>Zwift 101: Cycling</category>
+    <subcategory>Week 1-just-the-basics</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Zwift 101: Cycling" />
         <tag name="Week 1-just-the-basics" />
-        <tag name="Zwift 101: Cycling Week 1-just-the-basics 1. Just The Basics" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="240" PowerLow="0.55" PowerHigh="0.75" />
         <SteadyState Duration="120" Power="0.65" />

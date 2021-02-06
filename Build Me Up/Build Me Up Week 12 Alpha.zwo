@@ -2,12 +2,13 @@
     <name>Build Me Up Week 12 Alpha</name>
     <author>Zwift</author>
     <description>This workout features a series of Leg Openers to prime the pump for a big effort. Enjoy this short and sharp workout designed to get you ready. Who's the "Alpha" after those past weeks of training now? YOU!</description>
+    <category>Build Me Up</category>
+    <subcategory>Week 12</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Build Me Up" />
         <tag name="Week 12" />
-        <tag name="Build Me Up Week 12 Alpha" />
-    </tags>
+        </tags>
     <workout>
         <SteadyState Duration="240" Power="0.4" Cadence="80" />
         <SteadyState Duration="240" Power="0.53" Cadence="90" />

@@ -2,12 +2,13 @@
     <name>Singletrack Slayer Week 8 3. Lactate Shuttle #1</name>
     <author>Zwift</author>
     <description>Sustaining high levels of lactate requires specific training. This ability to tolerate lactate only comes with precise intervals in training. We can all produce a one-off effort to build lactate, but with carefully planned intervals we can maintain this high level of lactate for an extended period. This is where the training effect happens!</description>
+    <category>Singletrack Slayer</category>
+    <subcategory>Week 8</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Singletrack Slayer" />
         <tag name="Week 8" />
-        <tag name="Singletrack Slayer Week 8 3. Lactate Shuttle #1" />
-    </tags>
+        </tags>
     <workout>
         <SteadyState Duration="180" Power="0.5" />
         <SteadyState Duration="60" Power="0.6" />

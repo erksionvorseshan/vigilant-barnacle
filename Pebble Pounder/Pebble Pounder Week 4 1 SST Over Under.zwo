@@ -2,12 +2,13 @@
     <name>Pebble Pounder Week 4 1. SST Over Under</name>
     <author>Zwift</author>
     <description>Welcome to Week 4 of the Pebble Pounder! Today, we're going to further our time spent at SST by doing some over/under intervals. These aren't 'true' over/unders, but rather going from 88% FTP to 95% FTP. We'll also be practicing our big gear work today during the 'over' portion.</description>
+    <category>Pebble Pounder</category>
+    <subcategory>Week 4</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Pebble Pounder" />
         <tag name="Week 4" />
-        <tag name="Pebble Pounder Week 4 1. SST Over Under" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="300" PowerLow="0.4" PowerHigh="0.75" Cadence="0" />
         <SteadyState Duration="30" Power="0.8" Cadence="85" />

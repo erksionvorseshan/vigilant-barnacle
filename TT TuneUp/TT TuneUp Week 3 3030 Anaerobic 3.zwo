@@ -2,12 +2,13 @@
     <name>TT TuneUp Week 3 30/30 Anaerobic #3</name>
     <author>Zwift</author>
     <description>After completing a warm up that includes some high rpm sprints and a short threshold effort, the main sets today include short efforts at VO2max with short recovery. By completing short efforts above threshold you are able to accumulate more time in this area than if completed in longer efforts. The short recovery periods also increase oxygen uptake. Particularly towards the end of the set!</description>
+    <category>TT TuneUp</category>
+    <subcategory>Week 3</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="TT TuneUp" />
         <tag name="Week 3" />
-        <tag name="TT TuneUp Week 3 30/30 Anaerobic #3" />
-    </tags>
+        </tags>
     <workout>
         <SteadyState Duration="180" Power="0.5" />
         <IntervalsT OnDuration="10" OffDuration="50" OnPower="2" OffPower="0.65" Repeat="4" />

@@ -2,12 +2,13 @@
     <name>Pebble Pounder Week 3 3. VO2 Max - 4x3 Ramps</name>
     <author>Zwift</author>
     <description>We're back to working at VO2 Max intensity today, but this time we're aiming for 12min and using a steady state interval again. The plan is to ramp up through the entire VO2 Max range and maintain a high cadence throughout. REMINDER: You can always adjust the FTP bias via the arrow keys on your keyboard, or the Zwift Companion app. Once you get over threshold, using a %FTP for workout prescription can get murky, so always adjust as needed.</description>
+    <category>Pebble Pounder</category>
+    <subcategory>Week 3</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Pebble Pounder" />
         <tag name="Week 3" />
-        <tag name="Pebble Pounder Week 3 3. VO2 Max - 4x3 Ramps" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="300" PowerLow="0.4" PowerHigh="0.75" Cadence="0" />
         <IntervalsT OnDuration="30" OffDuration="30" OnPower="1.05" OffPower="0.65" Cadence="105" CadenceResting="85" Repeat="3" />

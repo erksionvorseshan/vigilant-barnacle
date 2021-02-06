@@ -2,12 +2,13 @@
     <name>Dirt Destroyer Week 3 2. The Rollercoaster</name>
     <author>Zwift</author>
     <description>This Rollercoaster session aims to replicate the demands of a mountain bike ride / event. Mountain biking generally involves far more variations in effort compared with road riding - so plenty of surges and time spent being over geared!We touch upon all of these aspects in todays session, as we complete two blocks of alternating intensity, with top end Zone 6 surges thrown in there to replicate the demands of having to get up and over a steep bank or technical section. Feel free to get out of the saddle during the max efforts if you need to.We also have a 12 minute Sweet Spot effort in the middle, to help continue to develop our endurance.</description>
+    <category>Dirt Destroyer</category>
+    <subcategory>Week 3</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Dirt Destroyer" />
         <tag name="Week 3" />
-        <tag name="Dirt Destroyer Week 3 2. The Rollercoaster" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="600" PowerLow="0.25" PowerHigh="0.75" />
         <SteadyState Duration="60" Power="0.5" />

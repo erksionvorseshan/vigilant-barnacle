@@ -2,12 +2,13 @@
     <name>Gravel Grinder Week 2 Endurance building blocks</name>
     <author>Zwift</author>
     <description>Today we've got a nice "easy" aerobic effort for you today. The last 3 blocks will go up to 90% but just for a bit. Goal of today is to just get on the bike and put a little bit of pressure on the pedals, but not too much. If you'd like to visualize these builds as hills and smooth and steady climbing, please do. In fact, do! Good aerobic effort is all I'm looking for, so please don't go above what is prescribed for today. More hard stuff this week to focus on.</description>
+    <category>Gravel Grinder</category>
+    <subcategory>Week 2</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Gravel Grinder" />
         <tag name="Week 2" />
-        <tag name="Gravel Grinder Week 2 Endurance building blocks" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="600" PowerLow="0.35" PowerHigh="0.65" />
         <SteadyState Duration="120" Power="0.7" />

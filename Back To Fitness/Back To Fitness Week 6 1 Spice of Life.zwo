@@ -2,12 +2,13 @@
     <name>Back To Fitness Week 6 1. Spice of Life</name>
     <author>Zwift</author>
     <description>This workout is fairly varied! As your power constantly ramps up and down, and your cadence changes frequently - this is a workout to keep you engaged and working towards improving your fitness. The max power you produce during the ramps is only 95% of your threshold, so you should be able to manage this workout on tired legs.</description>
+    <category>Back To Fitness</category>
+    <subcategory>Week 6</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Back To Fitness" />
         <tag name="Week 6" />
-        <tag name="Back To Fitness Week 6 1. Spice of Life" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="300" PowerLow="0.4" PowerHigh="1.05" />
         <SteadyState Duration="120" Power="0.5" />

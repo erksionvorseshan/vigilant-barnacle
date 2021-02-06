@@ -2,12 +2,13 @@
     <name>Active Offseason Week 6 Day 2</name>
     <author>Zwift</author>
     <description>Complete today's workout at 80 rpm. Complete warm up and cool down in 39x15. The main set of the ride will be completed in 53x15. If that is not possible then use different gears. Get in work in a single gear that simulates you riding outside over varying terrain.</description>
+    <category>Active Offseason</category>
+    <subcategory>Week 6</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Active Offseason" />
         <tag name="Week 6" />
-        <tag name="Active Offseason Week 6 Day 2" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="420" PowerLow="0.25" PowerHigh="1" />
         <SteadyState Duration="60" Power="0.5" />

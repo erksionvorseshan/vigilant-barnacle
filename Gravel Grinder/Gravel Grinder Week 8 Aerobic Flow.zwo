@@ -2,12 +2,13 @@
     <name>Gravel Grinder Week 8 Aerobic Flow</name>
     <author>Zwift</author>
     <description>Yes, another aerobic type effort this week. Cuz, recovery. I do NOT want you pushing the pace here today, and with all other workouts this week you can push the wattage down if feeling fatigued!Some real easy builds. Nothing fancy, nothing hard. Please keep it easy!</description>
+    <category>Gravel Grinder</category>
+    <subcategory>Week 8</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Gravel Grinder" />
         <tag name="Week 8" />
-        <tag name="Gravel Grinder Week 8 Aerobic Flow" />
-    </tags>
+        </tags>
     <workout>
         <SteadyState Duration="600" Power="0.55" />
         <SteadyState Duration="60" Power="0.7" />

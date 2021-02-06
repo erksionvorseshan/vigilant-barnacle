@@ -2,12 +2,13 @@
     <name>Singletrack Slayer Week 3 2. Micro Into Threshold</name>
     <author>Zwift</author>
     <description>Another high intensity workout today. The stochastic nature of MTB riding requires you to turn the power on and then off in quick succession. Quite often leading into a threshold type of effort. Sustaining threshold power for long periods is a hard workout. Performing micro intervals leading into this effort gives the session another element of specificity.</description>
+    <category>Singletrack Slayer</category>
+    <subcategory>Week 3</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Singletrack Slayer" />
         <tag name="Week 3" />
-        <tag name="Singletrack Slayer Week 3 2. Micro Into Threshold" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="420" PowerLow="0.5" PowerHigh="0.75" />
         <SteadyState Duration="60" Power="0.5" />

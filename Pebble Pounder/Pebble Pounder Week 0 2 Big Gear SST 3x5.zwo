@@ -2,12 +2,13 @@
     <name>Pebble Pounder Week 0 2. Big Gear SST - 3x5</name>
     <author>Zwift</author>
     <description>Welcome back to week 2 of the Pebble Pounder! We're going to progress our Big Gear workout from last week and aim for 15min of SST today - 3min more from last week!</description>
+    <category>Pebble Pounder</category>
+    <subcategory>Week 0</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Pebble Pounder" />
         <tag name="Week 0" />
-        <tag name="Pebble Pounder Week 0 2. Big Gear SST - 3x5" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="300" PowerLow="0.4" PowerHigh="0.75" Cadence="0" />
         <IntervalsT OnDuration="30" OffDuration="30" OnPower="1.05" OffPower="0.65" Cadence="105" CadenceResting="85" Repeat="3" />

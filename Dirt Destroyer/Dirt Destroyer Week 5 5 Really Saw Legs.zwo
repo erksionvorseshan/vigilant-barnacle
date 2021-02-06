@@ -2,12 +2,13 @@
     <name>Dirt Destroyer Week 5 5. Really Saw Legs</name>
     <author>Zwift</author>
     <description>This session aims to develop your endurance by completing 3 blocks of 15 minutes around Sweet Spot, made up of short ramps to add in the constant variation in effort involved in mountain biking! There are also a few sprints thrown in there too, to simulate navigating across a technical uphill section. Additionally, the middle ramp within each block is to be completed at a low cadence, of 65rpm. Todays powers are slightly higher than last week - a sign of progression!</description>
+    <category>Dirt Destroyer</category>
+    <subcategory>Week 5</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Dirt Destroyer" />
         <tag name="Week 5" />
-        <tag name="Dirt Destroyer Week 5 5. Really Saw Legs" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="420" PowerLow="0.43" PowerHigh="0.74" />
         <SteadyState Duration="30" Power="1.09" />

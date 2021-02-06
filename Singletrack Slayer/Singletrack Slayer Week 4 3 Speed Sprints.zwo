@@ -2,12 +2,13 @@
     <name>Singletrack Slayer Week 4 3. Speed Sprints</name>
     <author>Zwift</author>
     <description>Today we are looking for leg speed! Power is not the focus, so with this in mind the "speed" intervals are performed as a 'free-ride' section. The goal is long sprints with high cadence!</description>
+    <category>Singletrack Slayer</category>
+    <subcategory>Week 4</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Singletrack Slayer" />
         <tag name="Week 4" />
-        <tag name="Singletrack Slayer Week 4 3. Speed Sprints" />
-    </tags>
+        </tags>
     <workout>
         <SteadyState Duration="300" Power="0.5" />
         <IntervalsT OnDuration="10" OffDuration="50" OnPower="1.75" OffPower="0.5" Repeat="2" />

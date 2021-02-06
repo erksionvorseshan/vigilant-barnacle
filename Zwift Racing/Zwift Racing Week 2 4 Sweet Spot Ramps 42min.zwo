@@ -2,12 +2,13 @@
     <name>Zwift Racing Week 2 4. Sweet Spot Ramps - 42min</name>
     <author>Zwift</author>
     <description>A sweet spot focused workout where you'll accumulate 42min in total at that intensity.</description>
+    <category>Zwift Racing</category>
+    <subcategory>Week 2</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Zwift Racing" />
         <tag name="Week 2" />
-        <tag name="Zwift Racing Week 2 4. Sweet Spot Ramps - 42min" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="480" PowerLow="0.5" PowerHigh="0.8" />
         <SteadyState Duration="120" Power="0.5" Cadence="85" />

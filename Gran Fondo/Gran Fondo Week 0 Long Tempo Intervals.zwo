@@ -2,12 +2,13 @@
     <name>Gran Fondo Week 0 Long Tempo Intervals</name>
     <author>Zwift</author>
     <description>Long tempo intervals here to get you used to sustained higher effort that will help power you up and over the longer climbs.</description>
+    <category>Gran Fondo</category>
+    <subcategory>Week 0</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Gran Fondo" />
         <tag name="Week 0" />
-        <tag name="Gran Fondo Week 0 Long Tempo Intervals" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="420" PowerLow="0.5" PowerHigh="0.9" />
         <IntervalsT OnDuration="180" OffDuration="60" OnPower="0.9" OffPower="0.55" Repeat="10" />

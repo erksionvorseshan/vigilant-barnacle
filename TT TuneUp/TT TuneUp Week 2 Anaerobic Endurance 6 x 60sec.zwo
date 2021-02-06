@@ -2,12 +2,13 @@
     <name>TT TuneUp Week 2 Anaerobic Endurance 6 x 60sec</name>
     <author>Zwift</author>
     <description>After completing a good warm up the main sets consist of sustained high-power intervals with full recovery. Anaerobic endurance involves high cadence and big power, along with the ability to resist fatigue. Throughout each  interval observe your cadence and heart rate. Is your cadence dropping with fatigue and your heart rate rising?</description>
+    <category>TT TuneUp</category>
+    <subcategory>Week 2</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="TT TuneUp" />
         <tag name="Week 2" />
-        <tag name="TT TuneUp Week 2 Anaerobic Endurance 6 x 60sec" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="240" PowerLow="0.45" PowerHigh="0.75" />
         <SteadyState Duration="60" Power="0.5" />

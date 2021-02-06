@@ -2,12 +2,13 @@
     <name>Zwift Racing Week 2 5. London Classique</name>
     <author>Zwift</author>
     <description>A race simulation on London Classique where you'll tackle 4 laps of the course.</description>
+    <category>Zwift Racing</category>
+    <subcategory>Week 2</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Zwift Racing" />
         <tag name="Week 2" />
-        <tag name="Zwift Racing Week 2 5. London Classique" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="420" PowerLow="0.5" PowerHigh="0.75" />
         <IntervalsT OnDuration="30" OffDuration="30" OnPower="1.1" OffPower="0.55" Cadence="110" CadenceResting="85" Repeat="2" />

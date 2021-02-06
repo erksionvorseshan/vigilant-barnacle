@@ -2,12 +2,13 @@
     <name>Gran Fondo Week 7 Steady &amp; Surges</name>
     <author>Zwift</author>
     <description>A similar workout to one of the early ones from this plan - only this time we punctuate the steady intervals with some short, high intensity surges.</description>
+    <category>Gran Fondo</category>
+    <subcategory>Week 7</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Gran Fondo" />
         <tag name="Week 7" />
-        <tag name="Gran Fondo Week 7 Steady &amp; Surges" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="240" PowerLow="0.55" PowerHigh="0.75" />
         <SteadyState Duration="180" Power="0.75" />

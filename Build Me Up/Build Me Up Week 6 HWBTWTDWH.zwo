@@ -2,12 +2,13 @@
     <name>Build Me Up Week 6 HWBTWTDWH</name>
     <author>Zwift</author>
     <description>Hard Work Beats Talent When Talent Doesn't Work Hard.</description>
+    <category>Build Me Up</category>
+    <subcategory>Week 6</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Build Me Up" />
         <tag name="Week 6" />
-        <tag name="Build Me Up Week 6 HWBTWTDWH" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="600" PowerLow="0.4" PowerHigh="0.8" />
         <IntervalsT OnDuration="30" OffDuration="30" OnPower="0.95" OffPower="0.5" Cadence="95" CadenceResting="85" Repeat="1" />

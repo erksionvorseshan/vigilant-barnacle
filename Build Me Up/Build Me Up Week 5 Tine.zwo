@@ -2,12 +2,13 @@
     <name>Build Me Up Week 5 Tine</name>
     <author>Zwift</author>
     <description>Intervals that gradually come to a "sharp point," just like the Tines on a fork!</description>
+    <category>Build Me Up</category>
+    <subcategory>Week 5</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Build Me Up" />
         <tag name="Week 5" />
-        <tag name="Build Me Up Week 5 Tine" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="600" PowerLow="0.4" PowerHigh="0.75" />
         <IntervalsT OnDuration="30" OffDuration="30" OnPower="0.95" OffPower="0.5" Cadence="95" CadenceResting="85" Repeat="1" />

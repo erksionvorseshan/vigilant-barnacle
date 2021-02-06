@@ -2,12 +2,13 @@
     <name>Gravel Grinder Week 3 Over the top</name>
     <author>Zwift</author>
     <description>Today's workout is going to be a sweet ass exploration of your personal limits and will likely break you down to your core so we can rebuild a better and brighter "you". JK. But it should be fun. A little bit of over-gear that will be at higher power so I recommend adjusting your FTP if you think it's a little generous.</description>
+    <category>Gravel Grinder</category>
+    <subcategory>Week 3</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Gravel Grinder" />
         <tag name="Week 3" />
-        <tag name="Gravel Grinder Week 3 Over the top" />
-    </tags>
+        </tags>
     <workout>
         <SteadyState Duration="180" Power="0.55" />
         <SteadyState Duration="180" Power="0.5" />

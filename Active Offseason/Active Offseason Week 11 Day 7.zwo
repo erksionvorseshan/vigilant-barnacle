@@ -2,12 +2,13 @@
     <name>Active Offseason Week 11 Day 7</name>
     <author>Zwift</author>
     <description>Endurance ride. Set a pace at Endurance power and hold this pace for the prescribed workout time. Focus on riding smooth and staying relaxed. Vary your cadence.</description>
+    <category>Active Offseason</category>
+    <subcategory>Week 11</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Active Offseason" />
         <tag name="Week 11" />
-        <tag name="Active Offseason Week 11 Day 7" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="900" PowerLow="0.25" PowerHigh="0.75" />
         <FreeRide Power="0.72" />

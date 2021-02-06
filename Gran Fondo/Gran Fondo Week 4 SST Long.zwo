@@ -2,12 +2,13 @@
     <name>Gran Fondo Week 4 SST Long</name>
     <author>Zwift</author>
     <description>Sweet Spot Training (or SST for short) will give great bang for buck as you can spend quite a bit of time in the Sweet Spot of your power curve without building up undue amounts of training stress.</description>
+    <category>Gran Fondo</category>
+    <subcategory>Week 4</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Gran Fondo" />
         <tag name="Week 4" />
-        <tag name="Gran Fondo Week 4 SST Long" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="600" PowerLow="0.39" PowerHigh="0.85" />
         <IntervalsT OnDuration="300" OffDuration="300" OnPower="0.94" OffPower="0.85" Repeat="3" />

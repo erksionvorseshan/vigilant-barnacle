@@ -2,12 +2,13 @@
     <name>Gravel Grinder Week 9 Race Simulation</name>
     <author>Zwift</author>
     <description>Yup. You've most definitely done this workout before, and I want to see how you've progressed. Well, I can't see it, but I want YOU to see how you progressed. Keep in mind if you've adjusted your FTP since then it may adjust your results, obviously. The point of this set is to stretch your limits and push you right up to a race effort here on Zwift. This really is how a race could go down in the heat of the battle, so working yourself here will help you prepare for it as well. The main set will act like 3 climbs up over a steep section over 100% FTP and back down the other side. Then a nice block build to finish at a summit. Go get em yo!</description>
+    <category>Gravel Grinder</category>
+    <subcategory>Week 9</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Gravel Grinder" />
         <tag name="Week 9" />
-        <tag name="Gravel Grinder Week 9 Race Simulation" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="480" PowerLow="0.45" PowerHigh="0.65" />
         <SteadyState Duration="15" Power="0.8" />

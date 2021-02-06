@@ -2,12 +2,13 @@
     <name>Singletrack Slayer Week 7 7. Tempo-Surges #2</name>
     <author>Zwift</author>
     <description>Completing long tempo efforts with short, high intensity surges, is another way to increase threshold power. With the constant high power, the body is forced to process the lactate produced from the above threshold surges.An effective session, without the lung burning effect of a sustained threshold effort.</description>
+    <category>Singletrack Slayer</category>
+    <subcategory>Week 7</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Singletrack Slayer" />
         <tag name="Week 7" />
-        <tag name="Singletrack Slayer Week 7 7. Tempo-Surges #2" />
-    </tags>
+        </tags>
     <workout>
         <SteadyState Duration="180" Power="0.5" />
         <IntervalsT OnDuration="60" OffDuration="60" OnPower="0.75" OffPower="0.5" Repeat="2" />

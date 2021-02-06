@@ -2,12 +2,13 @@
     <name>Zwift Racing Week 2 3. Macro to Micro</name>
     <author>Zwift</author>
     <description>A zone 6 microburst workout with an initial longer effort to mimic the demands of a Zwift race start. ERG off for the micro efforts.</description>
+    <category>Zwift Racing</category>
+    <subcategory>Week 2</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Zwift Racing" />
         <tag name="Week 2" />
-        <tag name="Zwift Racing Week 2 3. Macro to Micro" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="480" PowerLow="0.5" PowerHigh="0.8" Cadence="85" />
         <IntervalsT OnDuration="30" OffDuration="30" OnPower="1.2" OffPower="0.55" Repeat="3" />

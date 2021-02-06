@@ -2,12 +2,13 @@
     <name>Build Me Up Week 7 Cucumber</name>
     <author>Zwift</author>
     <description>This workout improves your ability to deal with lactate and stay cool under pressure, AKA "Cool as a cucumber."</description>
+    <category>Build Me Up</category>
+    <subcategory>Week 7</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Build Me Up" />
         <tag name="Week 7" />
-        <tag name="Build Me Up Week 7 Cucumber" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="300" PowerLow="0.25" PowerHigh="0.6" />
         <SteadyState Duration="300" Power="0.6" Cadence="90" />

@@ -2,12 +2,13 @@
     <name>TT TuneUp Week 7 Endurance #4</name>
     <author>Zwift</author>
     <description>Building endurance doesn't just involve long, low power efforts. In this session we challenge your aerobic energy pathways with a range of efforts. Opening with a longer Zone 2 effort, we build into a some neuromuscular work, before finishing with a Zone 3 effort that starts at the top of the range and gradually decreases.</description>
+    <category>TT TuneUp</category>
+    <subcategory>Week 7</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="TT TuneUp" />
         <tag name="Week 7" />
-        <tag name="TT TuneUp Week 7 Endurance #4" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="300" PowerLow="0.45" PowerHigh="0.75" />
         <IntervalsT OnDuration="30" OffDuration="30" OnPower="0.65" OffPower="0.89" Repeat="5" />

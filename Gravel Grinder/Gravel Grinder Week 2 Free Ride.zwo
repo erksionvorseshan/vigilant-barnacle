@@ -2,12 +2,13 @@
     <name>Gravel Grinder Week 2 Free Ride</name>
     <author>Zwift</author>
     <description>Sometimes ya just gotta ride your bike. Get on the current course for the day and ride mixed terrain. I would like to see you riding Z1-Z2 throughout the ride, but some very low Z3 is clearly ok if the terrain demands it. Today is NOT about going hard though, I just want to see some good aerobic deposits!</description>
+    <category>Gravel Grinder</category>
+    <subcategory>Week 2</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Gravel Grinder" />
         <tag name="Week 2" />
-        <tag name="Gravel Grinder Week 2 Free Ride" />
-    </tags>
+        </tags>
     <workout>
         <SteadyState Duration="600" Power="0.55" />
         <FreeRide Duration="600" />

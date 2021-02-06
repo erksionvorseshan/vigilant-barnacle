@@ -2,12 +2,13 @@
     <name>Active Offseason Week 3 Day 1</name>
     <author>Zwift</author>
     <description>Warmup for 15 minutes in Zone followed by 15 minutes of cadence drills. End with some hard intervals and a 15 minute cool down.</description>
+    <category>Active Offseason</category>
+    <subcategory>Week 3</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Active Offseason" />
         <tag name="Week 3" />
-        <tag name="Active Offseason Week 3 Day 1" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="900" PowerLow="0.49" PowerHigh="0.54" />
         <FreeRide Duration="900" />

@@ -2,12 +2,13 @@
     <name>Active Offseason Week 10 Day 6</name>
     <author>Zwift</author>
     <description>SST Intervals. On the trainer, out on the road, or in a group, SST intervals are part of our continued effort to build and maintain base.</description>
+    <category>Active Offseason</category>
+    <subcategory>Week 10</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Active Offseason" />
         <tag name="Week 10" />
-        <tag name="Active Offseason Week 10 Day 6" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="900" PowerLow="0.25" PowerHigh="0.75" />
         <IntervalsT OnDuration="1200" OffDuration="300" OnPower="0.92" OffPower="0.65" Repeat="3" />

@@ -2,12 +2,13 @@
     <name>Active Offseason Week 11 Day 4</name>
     <author>Zwift</author>
     <description>3 x 15 minute Crisscross intervals. A "crisscross" interval is an interval where you vary your efforts to really teach your body to clear lactate.</description>
+    <category>Active Offseason</category>
+    <subcategory>Week 11</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Active Offseason" />
         <tag name="Week 11" />
-        <tag name="Active Offseason Week 11 Day 4" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="900" PowerLow="0.25" PowerHigh="0.75" />
         <IntervalsT OnDuration="30" OffDuration="120" OnPower="1.2" OffPower="0.9" Repeat="6" />

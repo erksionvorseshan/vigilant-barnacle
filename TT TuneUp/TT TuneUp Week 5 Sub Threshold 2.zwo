@@ -2,12 +2,13 @@
     <name>TT TuneUp Week 5 Sub Threshold #2</name>
     <author>Zwift</author>
     <description>To build endurance and aerobic efficiency we need to perform long steady efforts. Today's session comprises of a series of sub-threshold efforts. After opening the interval with a Zone 5 surge, the remaining minutes will gradually increase in power over the duration of the effort. Observe how much this increase in power affects your heart rate.</description>
+    <category>TT TuneUp</category>
+    <subcategory>Week 5</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="TT TuneUp" />
         <tag name="Week 5" />
-        <tag name="TT TuneUp Week 5 Sub Threshold #2" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="300" PowerLow="0.45" PowerHigh="0.75" />
         <IntervalsT OnDuration="60" OffDuration="60" OnPower="0.8" OffPower="0.5" Repeat="2" />

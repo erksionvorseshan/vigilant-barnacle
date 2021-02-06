@@ -2,12 +2,13 @@
     <name>Gravel Grinder Week 3 Aerobic Builds</name>
     <author>Zwift</author>
     <description>It's all about that Base. Right? Today we're getting into some aerobic fitness with a little bit of direction. Nothing hard today, but lots of time doing some "work". Don't adjust the watts up at all today as some lower effort will be good for us. On the other hand if you are tired and need to click the down button on the "higher" watts, today is the day to do so. A bit longer so don't forget a snack and a couple of bottles with mix. Get used to forcing the hydration as it's going to be important for race day.</description>
+    <category>Gravel Grinder</category>
+    <subcategory>Week 3</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Gravel Grinder" />
         <tag name="Week 3" />
-        <tag name="Gravel Grinder Week 3 Aerobic Builds" />
-    </tags>
+        </tags>
     <workout>
         <SteadyState Duration="600" Power="0.45" />
         <SteadyState Duration="60" Power="0.7" />

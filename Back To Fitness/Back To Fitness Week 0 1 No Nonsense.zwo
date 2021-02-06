@@ -2,12 +2,13 @@
     <name>Back To Fitness Week 0 1. No Nonsense</name>
     <author>Zwift</author>
     <description>This workout is straight forward - you will spend plenty of time with your chain tight. 3 x 6 minute blocks of Zone 3, will ensure you get a good training stress, without leaving your legs heavy for tomorrow.</description>
+    <category>Back To Fitness</category>
+    <subcategory>Week 0</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Back To Fitness" />
         <tag name="Week 0" />
-        <tag name="Back To Fitness Week 0 1. No Nonsense" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="300" PowerLow="0.4" PowerHigh="1.05" />
         <SteadyState Duration="120" Power="0.5" />

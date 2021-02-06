@@ -2,12 +2,13 @@
     <name>Gran Fondo Week 8 Final Sharpen</name>
     <author>Zwift</author>
     <description>One final tune-up to keep the legs sharp and the mind and body fresh before you take on your Fondo!</description>
+    <category>Gran Fondo</category>
+    <subcategory>Week 8</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Gran Fondo" />
         <tag name="Week 8" />
-        <tag name="Gran Fondo Week 8 Final Sharpen" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="300" PowerLow="0.55" PowerHigh="0.75" />
         <IntervalsT OnDuration="15" OffDuration="45" OnPower="1.15" OffPower="0.75" Repeat="4" />

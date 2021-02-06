@@ -2,12 +2,13 @@
     <name>Active Offseason Week 10 Day 1</name>
     <author>Zwift</author>
     <description>Build some time on the bike today with a nice endurance ride!</description>
+    <category>Active Offseason</category>
+    <subcategory>Week 10</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Active Offseason" />
         <tag name="Week 10" />
-        <tag name="Active Offseason Week 10 Day 1" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="600" PowerLow="0.25" PowerHigh="0.75" />
         <SteadyState Duration="900" Power="0.75" />

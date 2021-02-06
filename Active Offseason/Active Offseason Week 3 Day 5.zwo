@@ -2,12 +2,13 @@
     <name>Active Offseason Week 3 Day 5</name>
     <author>Zwift</author>
     <description>Endurance ride. Ride for 2.5 hours at an endurance pace. Vary cadence while focusing on riding smoothly and staying relaxed.</description>
+    <category>Active Offseason</category>
+    <subcategory>Week 3</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Active Offseason" />
         <tag name="Week 3" />
-        <tag name="Active Offseason Week 3 Day 5" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="900" PowerLow="0.49" PowerHigh="0.54" />
         <SteadyState Duration="1800" Power="0.72" />

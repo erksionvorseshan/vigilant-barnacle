@@ -2,12 +2,13 @@
     <name>Pebble Pounder Week 5 3. VO2 Max - 4x4 (40/20)</name>
     <author>Zwift</author>
     <description>The final workout of the 5th week of the Pebble Pounder features some more VO2 Max work. Today, we'll be aiming for just a little more VO2 Max time relative to last week, but also incorporating a 40/20 interval approach which will challenge you for sure! Let's make it happen today! REMINDER: You can always adjust the FTP bias via the arrow keys on your keyboard, or the Zwift Companion app. Once you get over threshold, using a %FTP for workout prescription can get murky, so always adjust as needed.</description>
+    <category>Pebble Pounder</category>
+    <subcategory>Week 5</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Pebble Pounder" />
         <tag name="Week 5" />
-        <tag name="Pebble Pounder Week 5 3. VO2 Max - 4x4 (40/20)" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="300" PowerLow="0.4" PowerHigh="0.75" Cadence="0" />
         <IntervalsT OnDuration="30" OffDuration="30" OnPower="1.05" OffPower="0.65" Cadence="105" CadenceResting="85" Repeat="3" />

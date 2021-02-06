@@ -2,12 +2,13 @@
     <name>Pebble Pounder Week 5 2. Hard Starts</name>
     <author>Zwift</author>
     <description>Today's workout is all about recovering after a hard effort. Sometimes you need to respond at the base of a climb, close a gap in the paceline, or move around a dropped rider during a gravel event. This requires a hard surge well over threshold, then a steady effort once you're back on the group again. Today will challenge you.</description>
+    <category>Pebble Pounder</category>
+    <subcategory>Week 5</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Pebble Pounder" />
         <tag name="Week 5" />
-        <tag name="Pebble Pounder Week 5 2. Hard Starts" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="300" PowerLow="0.4" PowerHigh="0.75" Cadence="0" />
         <IntervalsT OnDuration="10" OffDuration="50" OnPower="1.5" OffPower="0.65" Cadence="110" CadenceResting="85" Repeat="2" />

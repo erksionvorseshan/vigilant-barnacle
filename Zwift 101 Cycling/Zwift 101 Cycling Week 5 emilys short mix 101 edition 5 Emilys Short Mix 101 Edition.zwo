@@ -2,12 +2,13 @@
     <name>Zwift 101: Cycling Week 5-emilys-short-mix-101-edition 5. Emily's Short Mix (101 Edition)</name>
     <author>Zwift</author>
     <description>You've got 30min to spare and you wanna make it count.</description>
+    <category>Zwift 101: Cycling</category>
+    <subcategory>Week 5-emilys-short-mix-101-edition</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Zwift 101: Cycling" />
         <tag name="Week 5-emilys-short-mix-101-edition" />
-        <tag name="Zwift 101: Cycling Week 5-emilys-short-mix-101-edition 5. Emily's Short Mix (101 Edition)" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="180" PowerLow="0.45" PowerHigh="0.85" />
         <SteadyState Duration="180" Power="0.85" />

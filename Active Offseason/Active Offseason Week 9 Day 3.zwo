@@ -2,12 +2,13 @@
     <name>Active Offseason Week 9 Day 3</name>
     <author>Zwift</author>
     <description>Build some time on the bike today with an endurance ride!</description>
+    <category>Active Offseason</category>
+    <subcategory>Week 9</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Active Offseason" />
         <tag name="Week 9" />
-        <tag name="Active Offseason Week 9 Day 3" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="600" PowerLow="0.25" PowerHigh="0.75" />
         <SteadyState Duration="2400" Power="0.75" />

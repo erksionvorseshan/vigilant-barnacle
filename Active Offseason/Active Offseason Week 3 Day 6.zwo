@@ -2,12 +2,13 @@
     <name>Active Offseason Week 3 Day 6</name>
     <author>Zwift</author>
     <description>Endurance ride. Ride at an endruance pace for 2.5 hours. Throughout the ride, do 10 8-second max power bursts. Be sure your cadence remains high.</description>
+    <category>Active Offseason</category>
+    <subcategory>Week 3</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Active Offseason" />
         <tag name="Week 3" />
-        <tag name="Active Offseason Week 3 Day 6" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="900" PowerLow="0.7" PowerHigh="0.75" />
         <SteadyState Duration="900" Power="0.72" />

@@ -2,12 +2,13 @@
     <name>Singletrack Slayer Week 4 6. Threshold #4</name>
     <author>Zwift</author>
     <description>Working to raise your threshold power provides many benefits to your MTB riding. The ability to ride faster and recover quicker are just a couple of these gains. But when we add the element of leg speed to threshold work, we get another level of MTB specificity to the session.</description>
+    <category>Singletrack Slayer</category>
+    <subcategory>Week 4</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Singletrack Slayer" />
         <tag name="Week 4" />
-        <tag name="Singletrack Slayer Week 4 6. Threshold #4" />
-    </tags>
+        </tags>
     <workout>
         <SteadyState Duration="180" Power="0.5" />
         <SteadyState Duration="60" Power="0.6" />

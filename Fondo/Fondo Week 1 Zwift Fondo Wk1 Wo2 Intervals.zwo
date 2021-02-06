@@ -2,12 +2,13 @@
     <name>Fondo Week 1 Zwift Fondo Wk1 Wo2: Intervals</name>
     <author>Zwift</author>
     <description>Wk1: Workout 2 - Intervals. Part of the Zwift Fondo training plan.         The second workout in Zwift's Training Plan for our Zwift Fondo events. This workout consists of two rounds of progressively harder - but shorter - intervals in the sub-threshold zones.         Workout consists of a 5min warm-up, two rounds of 4min at 65 percent, 2min easy, 3:30 at 81 percent, 2min easy, 2:30 at 95 percent, 2min easy, and then a 3min cool-down.</description>
+    <category>Fondo</category>
+    <subcategory>Week 1</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Fondo" />
         <tag name="Week 1" />
-        <tag name="Fondo Week 1 Zwift Fondo Wk1 Wo2: Intervals" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="300" PowerLow="0.25" PowerHigh="0.65" />
         <SteadyState Duration="240" Power="0.65" />

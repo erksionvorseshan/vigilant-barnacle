@@ -2,12 +2,13 @@
     <name>Gran Fondo Week 0 Progressive Ramps</name>
     <author>Zwift</author>
     <description>A series of three three-step ramps. Each ramp is progressively harder than the last, and each block is then progressively harder than the one that came before it. This workout is designed to challenge your ability to make small pace changes to respond to terrain or race-day pressure.</description>
+    <category>Gran Fondo</category>
+    <subcategory>Week 0</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Gran Fondo" />
         <tag name="Week 0" />
-        <tag name="Gran Fondo Week 0 Progressive Ramps" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="240" PowerLow="0.55" PowerHigh="0.75" />
         <SteadyState Duration="60" Power="0.55" />

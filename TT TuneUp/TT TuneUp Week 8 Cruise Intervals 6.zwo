@@ -2,12 +2,13 @@
     <name>TT TuneUp Week 8 Cruise Intervals #6</name>
     <author>Zwift</author>
     <description>Today's session consists of three long cruise intervals. However, each long interval includes a short surge to begin the effort and mid way through. Being able to return to threshold power after surging is an important aspect of fitness. Focus on controlled breathing and pedaling at a cadence similar to your time trial cadence.</description>
+    <category>TT TuneUp</category>
+    <subcategory>Week 8</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="TT TuneUp" />
         <tag name="Week 8" />
-        <tag name="TT TuneUp Week 8 Cruise Intervals #6" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="180" PowerLow="0.45" PowerHigh="0.6" />
         <SteadyState Duration="60" Power="0.6" />

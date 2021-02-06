@@ -2,12 +2,13 @@
     <name>Build Me Up Week 1 Pre-Training Plan</name>
     <author>Zwift</author>
     <description>Introductory workout to be done prior to starting a training plan</description>
+    <category>Build Me Up</category>
+    <subcategory>Week 1</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Build Me Up" />
         <tag name="Week 1" />
-        <tag name="Build Me Up Week 1 Pre-Training Plan" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="600" PowerLow="0.25" PowerHigh="0.65" />
         <SteadyState Duration="300" Power="0.65" />

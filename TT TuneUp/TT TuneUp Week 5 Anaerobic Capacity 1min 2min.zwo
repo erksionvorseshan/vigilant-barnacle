@@ -2,12 +2,13 @@
     <name>TT TuneUp Week 5 Anaerobic Capacity 1min &amp; 2min</name>
     <author>Zwift</author>
     <description>This is a very high level of intensity that requires mental and physical perseverance. As well as improving your ability to produce sustained power above threshold, AC training will also improve your ability to recover from high intensity efforts and repeat them again and again. With a longer set of hard efforts followed by a series of shorter efforts, you will need to stay focused today!</description>
+    <category>TT TuneUp</category>
+    <subcategory>Week 5</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="TT TuneUp" />
         <tag name="Week 5" />
-        <tag name="TT TuneUp Week 5 Anaerobic Capacity 1min &amp; 2min" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="360" PowerLow="0.45" PowerHigh="0.75" />
         <SteadyState Duration="60" Power="0.5" />

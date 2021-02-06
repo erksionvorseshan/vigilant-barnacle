@@ -2,12 +2,13 @@
     <name>TT TuneUp Week 8 AC Intervals #1</name>
     <author>Zwift</author>
     <description>This is a very high level of intensity that requires mental and physical perseverance. Not only is it important to increase your ability to produce short, high powered efforts, so to is the importance of being able to repeat these efforts with little recovery. In today's session the efforts get shorter, but the power increases.</description>
+    <category>TT TuneUp</category>
+    <subcategory>Week 8</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="TT TuneUp" />
         <tag name="Week 8" />
-        <tag name="TT TuneUp Week 8 AC Intervals #1" />
-    </tags>
+        </tags>
     <workout>
         <SteadyState Duration="180" Power="0.5" />
         <IntervalsT OnDuration="10" OffDuration="50" OnPower="2" OffPower="0.5" Repeat="4" />

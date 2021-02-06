@@ -2,12 +2,13 @@
     <name>Active Offseason Week 9 Day 7</name>
     <author>Zwift</author>
     <description>Endurance ride. Set a pace at Endurance Power and hold this pace for the prescribed workout time. Focus on riding smooth and staying relaxed. Vary your cadence.</description>
+    <category>Active Offseason</category>
+    <subcategory>Week 9</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Active Offseason" />
         <tag name="Week 9" />
-        <tag name="Active Offseason Week 9 Day 7" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="600" PowerLow="0.25" PowerHigh="0.7" />
         <SteadyState Duration="2400" Power="0.7" />

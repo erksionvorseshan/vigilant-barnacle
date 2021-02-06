@@ -2,12 +2,13 @@
     <name>Gravel Grinder Week 1 5x6 Sweet Spot 1B</name>
     <author>Zwift</author>
     <description>A little bit of sweet spot work on the docket for today. They call it the "sweet spot" for a reason and these efforts should be a blend of delight and pain. Hard enough to be working, but not hard enough to make you hate your life.</description>
+    <category>Gravel Grinder</category>
+    <subcategory>Week 1</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Gravel Grinder" />
         <tag name="Week 1" />
-        <tag name="Gravel Grinder Week 1 5x6 Sweet Spot 1B" />
-    </tags>
+        </tags>
     <workout>
         <SteadyState Duration="600" Power="0.55" />
         <SteadyState Duration="10" Power="0.7" />

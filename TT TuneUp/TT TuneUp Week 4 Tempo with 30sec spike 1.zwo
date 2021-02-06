@@ -2,12 +2,13 @@
     <name>TT TuneUp Week 4 Tempo with 30sec spike #1</name>
     <author>Zwift</author>
     <description>Steady tempo efforts are great. But by incorporating some high intensity efforts into them, you will improve your body's ability to work aerobically for long periods. Today's sessions consists of long tempo efforts with a surge every few minutes.</description>
+    <category>TT TuneUp</category>
+    <subcategory>Week 4</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="TT TuneUp" />
         <tag name="Week 4" />
-        <tag name="TT TuneUp Week 4 Tempo with 30sec spike #1" />
-    </tags>
+        </tags>
     <workout>
         <SteadyState Duration="180" Power="0.5" />
         <IntervalsT OnDuration="10" OffDuration="50" OnPower="2" OffPower="0.5" Repeat="4" />

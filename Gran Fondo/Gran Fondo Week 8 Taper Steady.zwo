@@ -2,12 +2,13 @@
     <name>Gran Fondo Week 8 Taper Steady</name>
     <author>Zwift</author>
     <description>Keeping the rhythm flowing here. Some nice, light work just to keep things ticking over. Hold that rhythm right through to the Fondo!</description>
+    <category>Gran Fondo</category>
+    <subcategory>Week 8</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Gran Fondo" />
         <tag name="Week 8" />
-        <tag name="Gran Fondo Week 8 Taper Steady" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="600" PowerLow="0.55" PowerHigh="0.7" />
         <SteadyState Duration="300" Power="0.7" />

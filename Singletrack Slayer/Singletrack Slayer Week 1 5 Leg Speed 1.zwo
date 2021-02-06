@@ -2,12 +2,13 @@
     <name>Singletrack Slayer Week 1 5. Leg Speed #1</name>
     <author>Zwift</author>
     <description>Another low intensity workout where we focus on leg speed today. The majority of the session is spent within zone 2. However, we hit some some 1min high cadence efforts during the session. All this then culminates with a steady state zone 3 effort.</description>
+    <category>Singletrack Slayer</category>
+    <subcategory>Week 1</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Singletrack Slayer" />
         <tag name="Week 1" />
-        <tag name="Singletrack Slayer Week 1 5. Leg Speed #1" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="300" PowerLow="0.5" PowerHigh="0.69" />
         <SteadyState Duration="60" Power="0.55" />

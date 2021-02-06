@@ -2,12 +2,13 @@
     <name>TT TuneUp Week 5 Tempo with 30sec spike #2</name>
     <author>Zwift</author>
     <description>Steady Tempo efforts are great. But by incorporating 30 second high intensity efforts into them, you will improve your body's ability to work aerobically for long periods. Today's sessions consists of some sustained tempo efforts with a surge every few minutes.</description>
+    <category>TT TuneUp</category>
+    <subcategory>Week 5</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="TT TuneUp" />
         <tag name="Week 5" />
-        <tag name="TT TuneUp Week 5 Tempo with 30sec spike #2" />
-    </tags>
+        </tags>
     <workout>
         <SteadyState Duration="180" Power="0.5" />
         <IntervalsT OnDuration="10" OffDuration="50" OnPower="2" OffPower="0.5" Repeat="4" />

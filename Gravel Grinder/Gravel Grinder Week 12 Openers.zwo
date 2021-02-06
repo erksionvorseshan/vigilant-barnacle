@@ -2,12 +2,13 @@
     <name>Gravel Grinder Week 12 Openers</name>
     <author>Zwift</author>
     <description>Look who get's to do some "openers" today! You do, I was talking to you. This is good stuff and I think you'll like it. These are not max effort "sprints" but rather building efforts from out of the saddle meant to "open" the legs. 3 rounds of 20 second efforts at 120% with a focus on good high RPMs. I'd like you to start these efforts seated and "sprint" out of the saddle about 10 seconds in and finish standing. Not meant to be deeply difficult, but opening the legs up!</description>
+    <category>Gravel Grinder</category>
+    <subcategory>Week 12</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Gravel Grinder" />
         <tag name="Week 12" />
-        <tag name="Gravel Grinder Week 12 Openers" />
-    </tags>
+        </tags>
     <workout>
         <SteadyState Duration="480" Power="0.55" />
         <SteadyState Duration="60" Power="0.8" />

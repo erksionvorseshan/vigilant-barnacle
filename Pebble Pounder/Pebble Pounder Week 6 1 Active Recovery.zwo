@@ -2,12 +2,13 @@
     <name>Pebble Pounder Week 6 1. Active Recovery</name>
     <author>Zwift</author>
     <description>Welcome to the 6th and final week of the Pebble Pounder! This week is all about rest, recovery, and regeneration, so today will be very easy and low key. Make sure you respect the power targets and don't overshoot them.</description>
+    <category>Pebble Pounder</category>
+    <subcategory>Week 6</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Pebble Pounder" />
         <tag name="Week 6" />
-        <tag name="Pebble Pounder Week 6 1. Active Recovery" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="300" PowerLow="0.25" PowerHigh="0.5" />
         <SteadyState Duration="300" Power="0.5" Cadence="95" />

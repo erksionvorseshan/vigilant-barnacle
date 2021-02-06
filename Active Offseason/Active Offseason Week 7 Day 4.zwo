@@ -2,12 +2,13 @@
     <name>Active Offseason Week 7 Day 4</name>
     <author>Zwift</author>
     <description>Today is an Active Recovery day targeting ONLY Acitve Recovery. Focus on relaxing on the bike and enjoying the ride. Today is about recovery, so go for an easy spin!</description>
+    <category>Active Offseason</category>
+    <subcategory>Week 7</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Active Offseason" />
         <tag name="Week 7" />
-        <tag name="Active Offseason Week 7 Day 4" />
-    </tags>
+        </tags>
     <workout>
         <SteadyState Duration="1800" Power="0.52" />
     </workout>

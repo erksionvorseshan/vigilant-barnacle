@@ -2,12 +2,13 @@
     <name>Active Offseason Week 5 Day 2</name>
     <author>Zwift</author>
     <description>8 x 3 minutes at 50 rpm, pushing a big gear at 90% of FTP. The goal is to create more torque than watts. Stay seated for the entire effort and pull on handlebars to be able to push harder. If you need more resistance, increase the wattage.</description>
+    <category>Active Offseason</category>
+    <subcategory>Week 5</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Active Offseason" />
         <tag name="Week 5" />
-        <tag name="Active Offseason Week 5 Day 2" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="900" PowerLow="0.49" PowerHigh="0.54" />
         <IntervalsT OnDuration="180" OffDuration="120" OnPower="0.89" OffPower="0.56" Repeat="8" />

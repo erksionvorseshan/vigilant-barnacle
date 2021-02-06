@@ -2,12 +2,13 @@
     <name>Active Offseason Week 8 Day 6 - FTP Test</name>
     <author>Zwift</author>
     <description>This is your 8 week test. Warm up well and really CRUSH IT!</description>
+    <category>Active Offseason</category>
+    <subcategory>Week 8</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Active Offseason" />
         <tag name="Week 8" />
-        <tag name="Active Offseason Week 8 Day 6 - FTP Test" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="600" PowerLow="0.25" PowerHigh="0.8" />
         <SteadyState Duration="300" Power="1.05" />

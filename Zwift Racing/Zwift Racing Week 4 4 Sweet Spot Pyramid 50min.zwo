@@ -2,12 +2,13 @@
     <name>Zwift Racing Week 4 4. Sweet Spot Pyramid - 50min</name>
     <author>Zwift</author>
     <description>A sweet spot focused workout where you'll accumulate 50min in total at that intensity.</description>
+    <category>Zwift Racing</category>
+    <subcategory>Week 4</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Zwift Racing" />
         <tag name="Week 4" />
-        <tag name="Zwift Racing Week 4 4. Sweet Spot Pyramid - 50min" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="600" PowerLow="0.5" PowerHigh="0.8" Cadence="85" />
         <SteadyState Duration="120" Power="0.55" Cadence="85" />

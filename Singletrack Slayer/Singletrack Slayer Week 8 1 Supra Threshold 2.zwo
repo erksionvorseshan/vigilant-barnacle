@@ -2,12 +2,13 @@
     <name>Singletrack Slayer Week 8 1. Supra-Threshold #2</name>
     <author>Zwift</author>
     <description>For a MTB rider, raising the power you can produce at threshold is of paramount importance.This supra-threshold session of 4x 5 minutes will have you working at just above your anaerobic threshold power. But be prepared for the sting in the tail! The effort is completed with a low cadence, high power burst. This is just like what you would experience when powering over a steep dirt hill.</description>
+    <category>Singletrack Slayer</category>
+    <subcategory>Week 8</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Singletrack Slayer" />
         <tag name="Week 8" />
-        <tag name="Singletrack Slayer Week 8 1. Supra-Threshold #2" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="300" PowerLow="0.42" PowerHigh="0.7" />
         <SteadyState Duration="120" Power="0.5" />

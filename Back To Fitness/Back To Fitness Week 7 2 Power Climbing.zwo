@@ -2,12 +2,13 @@
     <name>Back To Fitness Week 7 2. Power + Climbing</name>
     <author>Zwift</author>
     <description>This ride consists of an integration of POWER + CLIMBING. The power efforts will be shorter efforts 30 seconds or less in duration followed by a ramp-up style of climbing and endurance in creasing in intensity throughout 5 minutes. We will tap in to all of our energy systems today which keep sessions fun while at the same time challenging for all!</description>
+    <category>Back To Fitness</category>
+    <subcategory>Week 7</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Back To Fitness" />
         <tag name="Week 7" />
-        <tag name="Back To Fitness Week 7 2. Power + Climbing" />
-    </tags>
+        </tags>
     <workout>
         <SteadyState Duration="60" Power="0.6" />
         <SteadyState Duration="60" Power="0.68" />

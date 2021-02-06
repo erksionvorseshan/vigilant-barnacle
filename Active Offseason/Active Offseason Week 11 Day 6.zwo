@@ -2,12 +2,13 @@
     <name>Active Offseason Week 11 Day 6</name>
     <author>Zwift</author>
     <description>Endurance ride. Set a pace at Endurance and hold this pace for the next 2.5 hours. Throughout the ride, do a 10x 10 second out-of-the-saddle bursts into your Neuromusclar Power Zone (MAX). Make sure cadence stays high</description>
+    <category>Active Offseason</category>
+    <subcategory>Week 11</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Active Offseason" />
         <tag name="Week 11" />
-        <tag name="Active Offseason Week 11 Day 6" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="600" PowerLow="0.25" PowerHigh="0.75" />
         <IntervalsT OnDuration="10" OffDuration="770" OnPower="2" OffPower="0.7" Repeat="10" />

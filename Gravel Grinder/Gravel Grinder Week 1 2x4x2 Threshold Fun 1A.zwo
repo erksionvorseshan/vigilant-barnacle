@@ -2,12 +2,13 @@
     <name>Gravel Grinder Week 1 2x(4x2) Threshold Fun 1A</name>
     <author>Zwift</author>
     <description>This workout is designed to give you a solid deposit while working a bit on RPMs and giving you some time in the all important "threshold zone". On the side of higher RPMs here would be advised as staying on top of your gearing for the 100% of threshold efforts will be helpful. If you are reaching a bit for those higher RPMs use the recovery periods to get back in your comfort zone, RPM-wise.</description>
+    <category>Gravel Grinder</category>
+    <subcategory>Week 1</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Gravel Grinder" />
         <tag name="Week 1" />
-        <tag name="Gravel Grinder Week 1 2x(4x2) Threshold Fun 1A" />
-    </tags>
+        </tags>
     <workout>
         <SteadyState Duration="600" Power="0.45" />
         <SteadyState Duration="60" Power="0.8" />

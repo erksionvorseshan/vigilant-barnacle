@@ -2,12 +2,13 @@
     <name>Build Me Up Week 10 Potpourri</name>
     <author>Zwift</author>
     <description>You may not smell great after working your way through the variety of intervals in this workout, but you will be more fit!</description>
+    <category>Build Me Up</category>
+    <subcategory>Week 10</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Build Me Up" />
         <tag name="Week 10" />
-        <tag name="Build Me Up Week 10 Potpourri" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="600" PowerLow="0.25" PowerHigh="0.75" />
         <IntervalsT OnDuration="30" OffDuration="30" OnPower="0.95" OffPower="0.5" Cadence="95" CadenceResting="85" Repeat="1" />

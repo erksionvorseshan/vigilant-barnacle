@@ -2,12 +2,13 @@
     <name>Build Me Up Week 7 Spaded Sweetie</name>
     <author>Zwift</author>
     <description>The Spaded Sweetie starts off with a 15 minute warm up to prime the engines and ready the mind.  Then, we move into a spade interval set starting off very hard, but short, and gradually reducing the intensity while upping the time... Only to go back up again!  From there, we will move into a progressive over/under sweet spot interval featuring changes in cadence and intensity that culminates in a 1min FULL GAS effort! This is a tough workout, but feautures a lot of quality time at VO2 and threshold.</description>
+    <category>Build Me Up</category>
+    <subcategory>Week 7</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Build Me Up" />
         <tag name="Week 7" />
-        <tag name="Build Me Up Week 7 Spaded Sweetie" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="600" PowerLow="0.25" PowerHigh="0.75" />
         <SteadyState Duration="30" Power="0.95" Cadence="95" />

@@ -2,12 +2,13 @@
     <name>Gravel Grinder Week 2 High cadence builds</name>
     <author>Zwift</author>
     <description>This workout is absolutely designed as a recovery workout, but still have some "work" to do with a little RPM focus. The RPMs prescribed may be tough to hit, so work into it, and make sure you can do so without actually riding hard. Again, recovery focused. 3x9min blocks as 6 times through 30sec low endurance at 90 RPMs, 30sec upper endurance at 100 RPMs, 30sec tempo at 110 RPMstake 3min easy spinning between blocks</description>
+    <category>Gravel Grinder</category>
+    <subcategory>Week 2</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Gravel Grinder" />
         <tag name="Week 2" />
-        <tag name="Gravel Grinder Week 2 High cadence builds" />
-    </tags>
+        </tags>
     <workout>
         <SteadyState Duration="300" Power="0.65" />
         <SteadyState Duration="30" Power="0.6" Cadence="90" />

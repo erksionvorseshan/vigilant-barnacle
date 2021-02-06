@@ -2,12 +2,13 @@
     <name>Gravel Grinder Week 7 Over the top</name>
     <author>Zwift</author>
     <description>You've done this one before, but this one is so good for you we are going to do this again. As I've mentioned before our ability to have efficiency in a variety of RPMs is incredibly important in gravel events. Stay as smooth as you can as you go through this and find the entirety of your pedal stroke as we move through it. This version of the Over the Top is a bit different as we will be going over 100% of FTP on 2 of the blocks. As always if anything here aggravates your knees or any other joints or muscles please adjust your RPMs back up to a easier level.</description>
+    <category>Gravel Grinder</category>
+    <subcategory>Week 7</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Gravel Grinder" />
         <tag name="Week 7" />
-        <tag name="Gravel Grinder Week 7 Over the top" />
-    </tags>
+        </tags>
     <workout>
         <SteadyState Duration="420" Power="0.6" />
         <SteadyState Duration="60" Power="0.8" />

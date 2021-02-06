@@ -2,12 +2,13 @@
     <name>Gravel Grinder Week 0 2x(4x30") BPA (best possible average)</name>
     <author>Zwift</author>
     <description>A shorty, but a goody. Getting used to some very high watt efforts, but just for short bursts. These efforts are much different in gravel racing than they would be in a road race situation as it's usually terrain determined with a steep section, but still could be from our competitors and their big surges or finishes. We will do these in free ride mode but I do want the max watts you can do for 30 seconds in these two rounds. Don't do the best 30 seconds you've ever done and then be terrible at the rest. I would love them to be fairly consistent. Also considering we are talking gravel here I want to see you at lower RPMs around 75-80 during this sprint.</description>
+    <category>Gravel Grinder</category>
+    <subcategory>Week 0</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Gravel Grinder" />
         <tag name="Week 0" />
-        <tag name="Gravel Grinder Week 0 2x(4x30&quot;) BPA (best possible average)" />
-    </tags>
+        </tags>
     <workout>
         <SteadyState Duration="120" Power="0.55" />
         <SteadyState Duration="120" Power="0.6" />

@@ -2,12 +2,13 @@
     <name>Build Me Up Week 9 Mosaic</name>
     <author>Zwift</author>
     <description>Bit by bit and piece by piece, you are building a picture of a complete athlete with the fitness to tackle any challenge. Take another step towards completing your Mosaic today.</description>
+    <category>Build Me Up</category>
+    <subcategory>Week 9</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Build Me Up" />
         <tag name="Week 9" />
-        <tag name="Build Me Up Week 9 Mosaic" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="600" PowerLow="0.4" PowerHigh="0.8" />
         <IntervalsT OnDuration="30" OffDuration="30" OnPower="0.9" OffPower="0.55" Cadence="95" CadenceResting="85" Repeat="1" />

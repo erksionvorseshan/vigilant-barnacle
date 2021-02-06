@@ -2,12 +2,13 @@
     <name>Back To Fitness Week 1 2. Basics</name>
     <author>Zwift</author>
     <description>This workout contains a block of Zone 3 just like the first workout, to give you that familiarity and confidence ahead of some more intense efforts. Today, you will complete 6 x 20 second sprints - something that may be alien to you, however the rewards are great!</description>
+    <category>Back To Fitness</category>
+    <subcategory>Week 1</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Back To Fitness" />
         <tag name="Week 1" />
-        <tag name="Back To Fitness Week 1 2. Basics" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="300" PowerLow="0.4" PowerHigh="1.05" />
         <SteadyState Duration="120" Power="0.5" />

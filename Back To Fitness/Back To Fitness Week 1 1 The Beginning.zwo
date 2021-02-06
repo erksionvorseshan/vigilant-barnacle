@@ -2,12 +2,13 @@
     <name>Back To Fitness Week 1 1. The Beginning</name>
     <author>Zwift</author>
     <description>This workout contains a block of Zone 3 to gradually help ease you in to the workout, before completing 3 x 2 min Z5 (110% of FTP) efforts. This workout should feel like a challenge yet definitely be achievable so an ideal session for the start of a workout series.</description>
+    <category>Back To Fitness</category>
+    <subcategory>Week 1</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Back To Fitness" />
         <tag name="Week 1" />
-        <tag name="Back To Fitness Week 1 1. The Beginning" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="300" PowerLow="0.4" PowerHigh="1.05" />
         <SteadyState Duration="120" Power="0.5" />

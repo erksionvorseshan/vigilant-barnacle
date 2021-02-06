@@ -2,12 +2,13 @@
     <name>Gravel Grinder Week 6 High Cadence Bursting Block</name>
     <author>Zwift</author>
     <description>Here's a quick 45min workout with 5min of very high RPMs. 110 minimum for those (5) 1min blocks but if you can sustain 120, that would be great. Keep the in between pretty chipper as well, at least 90. That's going to be a solid 20min block but tack on warm up and cool down and it's 45. Bam.</description>
+    <category>Gravel Grinder</category>
+    <subcategory>Week 6</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Gravel Grinder" />
         <tag name="Week 6" />
-        <tag name="Gravel Grinder Week 6 High Cadence Bursting Block" />
-    </tags>
+        </tags>
     <workout>
         <SteadyState Duration="900" Power="0.55" />
         <SteadyState Duration="300" Power="0.6" />

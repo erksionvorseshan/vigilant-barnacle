@@ -2,12 +2,13 @@
     <name>Singletrack Slayer Week 4 7. Micro-VO2</name>
     <author>Zwift</author>
     <description>Micro intervals are a staple workout for many athlete's. Despite being comprised of multiple, short, high-intensity efforts, micro intervals are a way to target VO2max development. There is a myriad amount of variations possible with micro intervals. In today's session we are performing 30/15's. 30sec hard, followed by 15sec recovery.</description>
+    <category>Singletrack Slayer</category>
+    <subcategory>Week 4</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Singletrack Slayer" />
         <tag name="Week 4" />
-        <tag name="Singletrack Slayer Week 4 7. Micro-VO2" />
-    </tags>
+        </tags>
     <workout>
         <SteadyState Duration="180" Power="0.5" />
         <IntervalsT OnDuration="60" OffDuration="60" OnPower="0.75" OffPower="0.5" Repeat="2" />

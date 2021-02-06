@@ -2,12 +2,13 @@
     <name>Build Me Up Week 7 Kirizuma</name>
     <author>Zwift</author>
     <description>The main set today features intervals shaped like the famous Japanese roofs for which this workout is named.</description>
+    <category>Build Me Up</category>
+    <subcategory>Week 7</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Build Me Up" />
         <tag name="Week 7" />
-        <tag name="Build Me Up Week 7 Kirizuma" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="600" PowerLow="0.4" PowerHigh="0.7" />
         <SteadyState Duration="60" Power="0.75" Cadence="95" />

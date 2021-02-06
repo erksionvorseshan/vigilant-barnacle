@@ -2,12 +2,13 @@
     <name>TT TuneUp Week 6 Sweet Spot 12</name>
     <author>Zwift</author>
     <description>There is no getting away from the benefit of longer steady efforts. To improve the stimulus of this type of training even further, these are the perfect prelude to finish with repeated, high power, short efforts.Today we have two long sweet spot efforts finished with a series of high cadence, threshold intervals.</description>
+    <category>TT TuneUp</category>
+    <subcategory>Week 6</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="TT TuneUp" />
         <tag name="Week 6" />
-        <tag name="TT TuneUp Week 6 Sweet Spot 12" />
-    </tags>
+        </tags>
     <workout>
         <Warmup Duration="180" PowerLow="0.45" PowerHigh="0.6" />
         <SteadyState Duration="60" Power="0.6" />

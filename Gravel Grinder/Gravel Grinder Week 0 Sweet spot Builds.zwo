@@ -2,12 +2,13 @@
     <name>Gravel Grinder Week 0 Sweet spot Builds</name>
     <author>Zwift</author>
     <description>We're in a recovery week here, but still have some "work" to do. The sweet spot is a great zone to work during a recovery week as we won't be heading above the threshold zone at all, so no stress, right? Seriously though, these should be somewhat comfortable builds and if at any point they feel overly "hard" you should come down on the watts just a bit to allow recovery.As with any workout we want to focus on smooth riding, efficient pedal strokes, and a quiet upper body as we work. The sweet spot zone is one we need to be comfortable in for gravel, so get ya some!</description>
+    <category>Gravel Grinder</category>
+    <subcategory>Week 0</subcategory>
     <sportType>bike</sportType>
     <tags>
         <tag name="Gravel Grinder" />
         <tag name="Week 0" />
-        <tag name="Gravel Grinder Week 0 Sweet spot Builds" />
-    </tags>
+        </tags>
     <workout>
         <SteadyState Duration="540" Power="0.55" />
         <SteadyState Duration="10" Power="0.8" />
