@@ -9,12 +9,13 @@
     <tags>
         <tag name="Active Offseason" />
         <tag name="Week 8" />
+        <tag name="FTP Test" />
         </tags>
     <workout>
         <Warmup Duration="600" PowerLow="0.25" PowerHigh="0.8" />
         <SteadyState Duration="300" Power="1.05" />
         <SteadyState Duration="900" Power="0.65" />
-        <FreeRide Duration="1200" />
+        <FreeRide Duration="1200" FlatRoad="1" ftptest="1" />
         <SteadyState Duration="600" Power="0.65" />
         <Cooldown Duration="600" PowerLow="0.65" PowerHigh="0.25" />
     </workout>

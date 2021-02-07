@@ -6,25 +6,27 @@
     <category>Zwift 101: Cycling</category>
     <subcategory>Week 3-ramp-test-101-edition</subcategory>
     <sportType>bike</sportType>
+    <ftpOverride>100</ftpOverride>
     <tags>
         <tag name="Zwift 101: Cycling" />
-        <tag name="Week 3-ramp-test-101-edition" />
-        </tags>
+        <tag name="Week 3" />
+        <tag name="FTP Test" />
+    </tags>
     <workout>
         <FreeRide Duration="600" />
         <SteadyState Duration="60" Power="1" />
-        <SteadyState Duration="60" Power="1.2" />
-        <SteadyState Duration="60" Power="1.4" />
-        <SteadyState Duration="60" Power="1.6" />
-        <SteadyState Duration="60" Power="1.8" />
-        <SteadyState Duration="60" Power="2" />
-        <SteadyState Duration="60" Power="2.2" />
-        <SteadyState Duration="60" Power="2.4" />
-        <SteadyState Duration="60" Power="2.6" />
-        <SteadyState Duration="60" Power="2.8" />
-        <SteadyState Duration="60" Power="3" />
-        <SteadyState Duration="60" Power="3.2" />
-        <SteadyState Duration="60" Power="3.4" />
+        <SteadyState Duration="60" Power="1.2" FailThresholdDuration="15" />
+        <SteadyState Duration="60" Power="1.4" FailThresholdDuration="15" />
+        <SteadyState Duration="60" Power="1.6" FailThresholdDuration="15" />
+        <SteadyState Duration="60" Power="1.8" FailThresholdDuration="15" />
+        <SteadyState Duration="60" Power="2" FailThresholdDuration="15" />
+        <SteadyState Duration="60" Power="2.2" FailThresholdDuration="15" />
+        <SteadyState Duration="60" Power="2.4" FailThresholdDuration="15" />
+        <SteadyState Duration="60" Power="2.6" FailThresholdDuration="15" />
+        <SteadyState Duration="60" Power="2.8" FailThresholdDuration="15" />
+        <SteadyState Duration="60" Power="3" FailThresholdDuration="15" />
+        <SteadyState Duration="60" Power="3.2" FailThresholdDuration="15" />
+        <SteadyState Duration="60" Power="3.4" FailThresholdDuration="15" />
         <Cooldown Duration="600" PowerLow="0.75" PowerHigh="0.7" />
     </workout>
 </workout_file>
