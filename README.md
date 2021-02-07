@@ -23,7 +23,6 @@ You might have to scroll down a bit to find it.
 
 ## Table of contents
 
-
 - [Active Offseason](https://github.com/erksionvorseshan/vigilant-barnacle/releases/download/v0.1.1/Active.Offseason.zip)
 - [Back To Fitness](https://github.com/erksionvorseshan/vigilant-barnacle/releases/download/v0.1.1/Back.To.Fitness.zip)
 - [Build Me Up](https://github.com/erksionvorseshan/vigilant-barnacle/releases/download/v0.1.1/Build.Me.Up.zip)
@@ -33,10 +32,10 @@ You might have to scroll down a bit to find it.
 - [FTP Builder](https://github.com/erksionvorseshan/vigilant-barnacle/releases/download/v0.1.1/FTP.Builder.zip)
 - [Gran Fondo](https://github.com/erksionvorseshan/vigilant-barnacle/releases/download/v0.1.1/Gran.Fondo.zip)
 - [Gravel Grinder](https://github.com/erksionvorseshan/vigilant-barnacle/releases/download/v0.1.1/Gravel.Grinder.zip)
- - [Pebble Pounder](https://github.com/erksionvorseshan/vigilant-barnacle/releases/download/v0.1.1/Pebble.Pounder.zip)
- - [Singletrack Slayer](https://github.com/erksionvorseshan/vigilant-barnacle/releases/download/v0.1.1/Singletrack.Slayer.zip)
- - [TT-TuneUp](https://github.com/erksionvorseshan/vigilant-barnacle/releases/download/v0.1.1/TT.TuneUp.zip)
- - [Zwift 101](https://github.com/erksionvorseshan/vigilant-barnacle/releases/download/v0.1.1/Zwift.101.Cycling.zip)
- - [Zwift Racing](https://github.com/erksionvorseshan/vigilant-barnacle/releases/download/v0.1.1/Zwift.Racing.zip)
+- [Pebble Pounder](https://github.com/erksionvorseshan/vigilant-barnacle/releases/download/v0.1.1/Pebble.Pounder.zip)
+- [Singletrack Slayer](https://github.com/erksionvorseshan/vigilant-barnacle/releases/download/v0.1.1/Singletrack.Slayer.zip)
+- [TT-TuneUp](https://github.com/erksionvorseshan/vigilant-barnacle/releases/download/v0.1.1/TT.TuneUp.zip)
+- [Zwift 101](https://github.com/erksionvorseshan/vigilant-barnacle/releases/download/v0.1.1/Zwift.101.Cycling.zip)
+- [Zwift Racing](https://github.com/erksionvorseshan/vigilant-barnacle/releases/download/v0.1.1/Zwift.Racing.zip)
  
 Have fun, ride safe
