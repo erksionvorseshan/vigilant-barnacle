@@ -1,5 +1,6 @@
 <workout_file>
-    <name>Gran Fondo Week 1 Intervals</name>
+    <name>Intervals</name>
+    <activitySaveName>Gran Fondo Week 1 Intervals</activitySaveName>
     <author>Zwift</author>
     <description>The second workout in the Fondo training plan, this workout consists of two rounds of progressively harder - but shorter - intervals in the sub-threshold zones.</description>
     <category>Gran Fondo</category>

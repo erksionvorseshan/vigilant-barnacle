@@ -1,5 +1,6 @@
 <workout_file>
-    <name>Gran Fondo Week 5 10x1min MAP (Maximal Aerobic Power)</name>
+    <name>10x1min MAP (Maximal Aerobic Power)</name>
+    <activitySaveName>Gran Fondo Week 5 10x1min MAP (Maximal Aerobic Power)</activitySaveName>
     <author>Zwift</author>
     <description>10x1min hard (Z5) with 4min recovery at steady base aerobic power. The idea here is getting comfortable with power output in the near-MAP (Maximal Aerobic Power) range but with good full recovery. The interval duration is too long to be a sprint - and you should stay seated for the entire interval - but not so long as to be overly taxing, especially with the long recovery. Keep the power up at a reasonable intensity during the recovery - it's not coasting.</description>
     <category>Gran Fondo</category>

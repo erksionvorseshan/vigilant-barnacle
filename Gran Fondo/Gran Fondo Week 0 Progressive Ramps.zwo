@@ -1,5 +1,6 @@
 <workout_file>
-    <name>Gran Fondo Week 0 Progressive Ramps</name>
+    <name>Progressive Ramps</name>
+    <activitySaveName>Gran Fondo Week 0 Progressive Ramps</activitySaveName>
     <author>Zwift</author>
     <description>A series of three three-step ramps. Each ramp is progressively harder than the last, and each block is then progressively harder than the one that came before it. This workout is designed to challenge your ability to make small pace changes to respond to terrain or race-day pressure.</description>
     <category>Gran Fondo</category>

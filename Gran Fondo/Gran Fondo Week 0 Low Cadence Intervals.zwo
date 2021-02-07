@@ -1,5 +1,6 @@
 <workout_file>
-    <name>Gran Fondo Week 0 Low Cadence Intervals</name>
+    <name>Low Cadence Intervals</name>
+    <activitySaveName>Gran Fondo Week 0 Low Cadence Intervals</activitySaveName>
     <author>Zwift</author>
     <description>Focused low-cadence 3min intervals (2min recovery) bracketing goal 90% FTP power. Build all while holding a good low cadence down in the 50s. Recovery with high cadence and still reasonable aerobic power. The power here shouldn't be a challenge... except for the cadence. If you can get comfortable generating your target race power with a firm cadence cap, it becomes a lot easier on race day when you can ride whatever cadence you choose. The cadence caps on the hard work are critical, so make sure not to cheat up and spin a bit faster to make it easier.</description>
     <category>Gran Fondo</category>
